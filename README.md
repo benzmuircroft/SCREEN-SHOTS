@@ -18,6 +18,7 @@ Smart Card
 
 Methodize.me
 
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/100.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/0.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/16.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/17.png?raw=true)
@@ -28,11 +29,23 @@ DigitaGoodsProvider.com
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/7.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/1.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/3.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/2.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/4.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/5.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/6.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/9.png?raw=true)
+
+Hotel App
+
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/2.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/42.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/43.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/44.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/45.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/46.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/47.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/48.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/55.png?raw=true)
+
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/11.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/13.png?raw=true)
@@ -56,15 +69,7 @@ DigitaGoodsProvider.com
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/40.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/41.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/42.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/43.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/44.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/45.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/46.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/47.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/48.png?raw=true)
 
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/55.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/56.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/58.png?raw=true)
 
@@ -95,7 +100,6 @@ DigitaGoodsProvider.com
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/96.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/97.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/98.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/100.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/102.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/111.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/112.png?raw=true)
