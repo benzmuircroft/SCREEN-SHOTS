@@ -37,8 +37,6 @@ DigitaGoodsProvider.com
 Hotel App
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/2.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/42.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/43.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/44.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/45.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/46.png?raw=true)
@@ -46,7 +44,8 @@ Hotel App
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/48.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/55.png?raw=true)
 
-
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/42.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/43.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/11.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/13.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/14.png?raw=true)
