@@ -1,4 +1,5 @@
-#Most recent work
+Most recent work
+================
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fct.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/Screenshot%20at%202022-02-21%2019-57-02.png?raw=true)
@@ -6,10 +7,11 @@
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fees.gif?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/addcoin.png?raw=true)
 
-#Passed work:
-
+Passed work:
+============
 
 Scanpedia/KilrBit
+-----------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/88.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/58.png?raw=true)
@@ -17,17 +19,20 @@ Scanpedia/KilrBit
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/75.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/76.png?raw=true)
 
+---
 
 Smart Card
+----------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/71.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/12.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/21.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/22.png?raw=true)
 
-
+---
 
 Methodize.me
+------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/100.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/77.png?raw=true)
@@ -35,25 +40,28 @@ Methodize.me
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/16.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/17.png?raw=true)
 
-
+---
 
 DigitaGoodsProvider.com
+-----------------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/7.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/1.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/3.png?raw=true)
 
-
+---
 
 QR.IT (Quick report it)
+-----------------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/9.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/79.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/85.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/79.png?raw=true)
 
-
+---
 
 Hotel App
+---------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/2.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/44.png?raw=true)
@@ -63,15 +71,19 @@ Hotel App
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/48.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/55.png?raw=true)
 
+---
 
 Monsters (Book Ilustration)
+---------------------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/42.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/25.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/26.png?raw=true)
 
+---
 
 YTPlaya
+-------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/70.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/72.png?raw=true)
@@ -88,12 +100,17 @@ YTPlaya
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/13.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/14.png?raw=true)
 
+---
 
 Chocolate Coin
+--------------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/90.png?raw=true)
 
+---
+
 Far East
+--------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/102.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/111.png?raw=true)
@@ -107,6 +124,10 @@ Far East
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/64.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/87.png?raw=true)
 
+---
+
+RANDOM
+------
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/43.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/11.png?raw=true)
