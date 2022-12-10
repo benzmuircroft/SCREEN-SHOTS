@@ -1,4 +1,4 @@
-Most recent work
+#Most recent work
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fct.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/Screenshot%20at%202022-02-21%2019-57-02.png?raw=true)
@@ -6,11 +6,17 @@ Most recent work
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fees.gif?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/addcoin.png?raw=true)
 
-Passed work:
+#Passed work:
 
+Smart Card
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/12.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/21.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/22.png?raw=true)
+
+Methodize.me
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/0.png?raw=true)
 
+DigitaGoodsProvider.com
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/7.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/1.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/3.png?raw=true)
@@ -29,8 +35,6 @@ Passed work:
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/18.png?raw=true)
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/20.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/21.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/22.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/23.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/25.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/26.png?raw=true)
