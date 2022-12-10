@@ -8,6 +8,7 @@
 
 #Passed work:
 
+
 Smart Card
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/71.png?raw=true)
@@ -26,13 +27,22 @@ Methodize.me
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/17.png?raw=true)
 
 
+
 DigitaGoodsProvider.com
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/7.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/1.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/3.png?raw=true)
 
+
+
+QR.IT (Quick report it)
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/9.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/79.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/85.png?raw=true)
+
+
 
 Hotel App
 
@@ -84,10 +94,10 @@ Hotel App
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/76.png?raw=true)
 
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/78.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/79.png?raw=true)
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/80.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/83.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/85.png?raw=true)
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/87.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/88.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/89.png?raw=true)
