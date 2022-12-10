@@ -4,6 +4,7 @@ Most recent work
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fct.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/Screenshot%20at%202022-02-21%2019-57-02.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/mob.png?raw=true)
+![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/security.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/fees.gif?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/addcoin.png?raw=true)
 
