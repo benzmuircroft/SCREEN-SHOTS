@@ -28,7 +28,6 @@ Passed work:
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/21.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/22.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/23.png?raw=true)
-![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/24.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/25.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/26.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/3.png?raw=true)
