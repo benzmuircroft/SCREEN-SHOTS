@@ -9,6 +9,7 @@
 #Passed work:
 
 Smart Card
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/12.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/21.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/22.png?raw=true)
@@ -16,12 +17,14 @@ Smart Card
 
 
 Methodize.me
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/0.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/16.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/17.png?raw=true)
 
 
 DigitaGoodsProvider.com
+
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/7.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/1.png?raw=true)
 ![](https://github.com/benzmuircroft/SCREEN-SHOTS/blob/main/img/3.png?raw=true)
