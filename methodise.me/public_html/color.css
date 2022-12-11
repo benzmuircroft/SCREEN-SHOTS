@@ -1,0 +1,44 @@
+.ctrl_help,
+.ctrl_done,
+.ctrl_eraser,
+.ctrl_edit,
+.ctrl_undo,
+.ctrl_elevation_up,
+.ctrl_elevation_dn,
+.ctrl_clock{
+    border:2px solid #ffffff;/*#5bcdf1;*/
+    background-color:#ffffff;/*#5bcdf1;*/
+    }
+#header,
+.options > div{
+    background:#0da2f4;
+    }
+.options,
+.tab{
+    background:#0289d4;
+    }
+.inp-lable{
+    color:#0da2f4;
+    }
+#header,
+#options_find > b > a,.option_page > b > a{
+    color:#fff;
+    }
+.header{
+    color:rgba(0,0,0,0.3)!important;
+    }
+#logo{
+    text-shadow:1px 0px 1px #ff9800a6, 1px 0px 1px #27b02e57, -1px 0px 1px #df5cffa6;
+    }
+#methodise{
+    color:#fff;
+    }
+#me{
+    color:#edc23d;
+    }
+.hash{
+    opacity:0.6;
+    }
+.unauthorised,.unauthorised a{
+    color:rgba(0,0,0,0.5)!important;
+    }
