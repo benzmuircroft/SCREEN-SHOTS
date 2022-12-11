@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>QRCode Decoder - select camera example</title>
+  </head>
+  <body>
+
+  <video autoplay></video>
+  <select id="cameraSelect"></select>
+  <button id="reset">Reset</button>
+  <button id="stop" >Stop</button>
+
+  <p id="result"></p>
+
+  <script src="../build/qcode-decoder.min.js"></script>
+  <script type="text/javascript">
+    var qr = new QCodeDecoder();
+    var elems = {
+      selector : document.querySelector('select'),
+      reset : document.getElementById('reset'),
+      stop : document.getElementById('reset'),
+      video: document.querySelector('video'),
+      result: document.getElementById('result')
+    };
+
+    if (!(qr.isCanvasSupported() && qr.hasGetUserMedia())) {
+      alert('Your browser doesn\'t match the required specs.');
+      throw new Error('Canvas and getUserMedia are required');
+    }
+
+    function resultHandler (err, result) {
+      if (err)
+        return console.log(err.message);
+
+      alert(result);
+    }
+
+    qr.getVideoSources(function (err, sources) {
+      if (err || (sources && !sources.length)) {
+        elems.selector.remove();
+        qr.decodeFromCamera(elems.video, resultHandler);
+
+        return;
+      }
+
+      sources.forEach(function (source) {
+        var option = document.createElement('option');
+        option.value = source.id;
+        option.text = source.facing || 'default';
+
+        elems.selector.add(option);
+      });
+
+      elems.selector.onchange = function () {
+        qr.setSourceId(elems.selector.selectedOptions[0].value);
+      };
+
+      elems.result.innerHTML = 'Your browser is currently exposing ' +
+                                sources.length + ' cameras - use the ' +
+                                'dropdown above to select which you want ' +
+                                'to use';
+
+      elems.selector.onchange();
+
+      qr.decodeFromCamera(elems.video, resultHandler);
+    });
+
+  </script>
+</body>
+</html>
