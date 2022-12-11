@@ -1,0 +1,58 @@
+{
+  "name": "rewire.io",
+  "version": "0.0.2",
+  "description": "Ultra Fast auto-reconnecting real-time apps for mobile and slow internet connections ",
+  "homepage": "https://github.com/benzmuircroft/REWIRE.io",
+  "keywords": [
+    "websocket",
+    "socket",
+    "realtime",
+    "reconnect",
+    "mobile",
+    "phone",
+    "devices",
+    "xmlsocket",
+    "ws",
+    "flashsocket",
+    "flash",
+    "fast",
+    "policyfile",
+    "rewire.io"
+  ],
+  "author": {
+    "name": "Ben Muircroft",
+    "email": "benzmuircroft@gmail.com"
+  },
+  "contributors": [
+    {
+     "name": "Ben Muircroft",
+    "email": "benzmuircroft@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benzmuircroft/REWIRE.io"
+  },
+  "dependencies": {
+  	"ws": "0.4.31",
+  	"jquery": "1.8.3",
+	"json-stringify-safe": "5.0.0",
+	"try-json-parse": "0.0.1",
+    "policyfile": "0.0.4"
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {
+  },
+  "main": "index",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    
+  },
+  "readme": "![express logo](http://quickreport.it/R/rewire_github.jpg)\n\n  Write The Same Code Everywhere! Auto Reconnecting Ultra Fast WebSocket/FlashSocket Transport for Mobile Devices And Slow Internet Connections. [REWIRE API DOCS]https://github.com/benzmuircroft/REWIRE.io",
+  "readmeFilename": "Readme.md",
+  "_id": "REWIRE.io@2",
+  "_from": "REWIRE.io@"
+}
