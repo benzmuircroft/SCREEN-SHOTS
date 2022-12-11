@@ -105,7 +105,7 @@ module.exports=function(s,G){//
 					/*JSON.post(
 						'www.google.com'
 					,	'/recaptcha/api/siteverify?'
-					,	JSON.queryify({'_':'_','secret':'6LeIkQkTAAAAAHTlmBGwtOHvkhYn3qh1kzyj_Kwh','response':_.r,'remoteip':U.ip})
+					,	JSON.queryify({'_':'_','secret':'xxxx','response':_.r,'remoteip':U.ip})
 					,	'application/x-www-form-urlencoded'
 					,	function(r){
 						if(r.success){*/
