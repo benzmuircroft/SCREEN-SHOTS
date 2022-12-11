@@ -1,0 +1,120 @@
+{
+	"id": "utilities-intropage",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 224,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"homepage": {
+			"id": "homepage",
+			"state": "good"
+		},
+		"utilities-graphicdesign": {
+			"id": "utilities-graphicdesign",
+			"state": "good"
+		},
+		"utilities-images": {
+			"id": "utilities-images",
+			"state": "good"
+		},
+		"utilities-audio": {
+			"id": "utilities-audio",
+			"state": "good"
+		},
+		"utilities-fonts": {
+			"id": "utilities-fonts",
+			"state": "good"
+		},
+		"utilities-language": {
+			"id": "utilities-language",
+			"state": "good"
+		},
+		"utilities-marketing": {
+			"id": "utilities-marketing",
+			"state": "good"
+		},
+		"utilities-planning": {
+			"id": "utilities-planning",
+			"state": "good"
+		},
+		"utilities-research": {
+			"id": "utilities-research",
+			"state": "good"
+		},
+		"utilities-translation": {
+			"id": "utilities-translation",
+			"state": "good"
+		},
+		"utilities-teaching": {
+			"id": "utilities-teaching",
+			"state": "good"
+		},
+		"utilities-training": {
+			"id": "utilities-training",
+			"state": "good"
+		},
+		"utilities-videocreation": {
+			"id": "utilities-videocreation",
+			"state": "good"
+		},
+		"utilities-writing": {
+			"id": "utilities-writing",
+			"state": "good"
+		},
+		"utilities-seo": {
+			"id": "utilities-seo",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534798090658,
+		"title": "UTILITIES - INTRO PAGE",
+		"description": "Enhance your skills - useful links and information - explore the categories using the UP and Down 'White Rabbit Hole' icons",
+		"keywords": "utilities, enhance skills, expert advice, tips, hints, expertise, field innovators, useful links, online tools, audio, fonts, graphic design, images, language, marketing, planning, research, teaching, training, translation, video creation, writing",
+		"cover": "http://humble.law/wp-content/uploads/2017/09/internet-broadband.png",
+		"bg": "rgba(237,193,2,1)",
+		"url": "http://humble.law/wp-content/uploads/2017/09/internet-broadband.png",
+		"repeat": "false",
+		"blur": "3.48",
+		"box": "rgba(255,255,255,0.75)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - INTRODUCTION</font>¬662",
+			"t¬109¬39¬<font size=\"4\">Enhance your skills by honing in on advice from the experts in the field and discover useful links.</font>¬411",
+			"t¬89¬788¬<font size=\"4\">This section of methodise.me is devoted to helping everyone who is interested in being able to reach excellent sites fast, without having to literally wade through a ton of pages on search engines and sift through article after article, video after video etc.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">We've done the research for you and we</font><span style=\"font-size: large;\">&nbsp;hope you'll enjoy using some of these videos, online tools etc ... we've personally found them very useful.</span></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">Use the UP and DOWN 'White Rabbit Hole' icons to navigate the categories.&nbsp;&nbsp;</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">If this is your first visit enjoy your experience with methodise.me.&nbsp;</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">Feel free to open an account, start creating your own pages and earn Monero for yourself.</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">We wish you success!</font></div>¬422",
+			"t¬236¬39¬<font size=\"5\">&nbsp;EXPLORE THE CATEGORIES :</font><font size=\"4\">&nbsp;</font>¬357",
+			"p¬583¬698¬https://lifehacker.com/the-best-tools-for-finding-information-when-google-isnt-1677741563",
+			"a¬372¬1345¬https://www.popsci.com/research-online-without-google¬Search Online WITHOUT Google",
+			"p¬588¬1019¬https://www.techrepublic.com/blog/10-things/10-tips-for-smarter-more-efficient-internet-searching/",
+			"e0¬19¬1320¬uqxbZkBlhqo",
+			"e0¬194¬1321¬l7KuljR3fJc",
+			"t¬299¬39¬&nbsp;&nbsp;<div><font size=\"5\">&nbsp;Audio</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Fonts</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Graphic Design</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Images</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Language</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Marketing</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Planning</font></div><div><div><br></div><div><font size=\"2\">&nbsp;</font></div></div>¬214",
+			"t¬299¬290¬<font size=\"1\">&nbsp;</font><div><span style=\"font-size: x-large;\">&nbsp;Research</span></div><div><span style=\"font-size: x-large;\"><br></span></div><div><span style=\"font-size: x-large;\">&nbsp;SEO</span><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Teaching</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Training</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Translation</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Video Creation</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">&nbsp;Writing</font></div></div><div><font size=\"5\"><br></font></div>¬204",
+			"m1¬25¬723¬homepage",
+			"m0¬413¬213¬utilities-graphicdesign",
+			"m0¬472¬129¬utilities-images",
+			"m0¬303¬110¬utilities-audio",
+			"m0¬361¬111¬utilities-fonts",
+			"m0¬528¬156¬utilities-language",
+			"m0¬586¬157¬utilities-marketing",
+			"m0¬640¬146¬utilities-planning",
+			"m0¬304¬406¬utilities-research",
+			"m0¬528¬416¬utilities-translation",
+			"m0¬416¬396¬utilities-teaching",
+			"m0¬470¬387¬utilities-training",
+			"m0¬584¬458¬utilities-videocreation",
+			"m0¬642¬376¬utilities-writing",
+			"m0¬359¬352¬utilities-seo",
+			":D¬491¬1195¬😀"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

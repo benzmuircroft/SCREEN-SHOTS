@@ -1,0 +1,59 @@
+{
+	"id": "utilities-videocreation",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 151,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534616359680,
+		"title": "UTILITIES - VIDEO",
+		"description": "Enhance your video creation skills - useful links and information",
+		"keywords": "utilities, video creation, video editing, video production, enhance skills, expert advice, expertise, experts in the field, useful links",
+		"cover": "https://s8.postimg.cc/v5ff35ttx/TITLE_N_PAGE_IMAGE_-_VIDEO_CREATION.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://s8.postimg.cc/v5ff35ttx/TITLE_N_PAGE_IMAGE_-_VIDEO_CREATION.jpg",
+		"repeat": "false",
+		"blur": "4.48",
+		"box": "rgba(255,255,255,0.73)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|v¬435¬224¬50¬ffffff",
+			"|v¬566¬623¬50¬ffffff",
+			"|v¬565¬1026¬50¬ffffff",
+			"|v¬294¬1422¬257¬ffffff",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - VIDEO CREATION&nbsp;</font>¬701",
+			"t¬109¬40¬<font size=\"4\">Enhance your video creation skills by honing in on advice from the experts in the field and discover useful links.</font>¬426",
+			"e0¬281¬80¬lSywwam2W30",
+			"e0¬480¬80¬BcB-SWkDQ0Q",
+			"e0¬230¬880¬GYud_W7Ou9E",
+			"e0¬230¬480¬0z6IlBVnUzU",
+			"e0¬40¬879¬cFT2FwYsfeQ",
+			"e0¬419¬880¬JEHniU9rqvk",
+			"e0¬610¬879¬ZwId_2IUN4A",
+			"e0¬150¬1280¬y04ityB5f9k",
+			"e0¬343¬1281¬41YehxZ7t4o",
+			"e0¬542¬1281¬b38ef8n1p4U",
+			"e0¬420¬479¬oZUjBw3SuCY",
+			"e0¬610¬479¬sRM1IpzRyEw",
+			":D¬678¬377¬🎬",
+			":D¬560¬1181¬🎤",
+			":D¬119¬506¬📽",
+			"m1¬25¬766¬utilities-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

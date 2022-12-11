@@ -1,0 +1,60 @@
+{
+	"id": "utilities-teaching",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 162,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534616765722,
+		"title": "UTILITIES - TEACHING",
+		"description": "Enhance your teaching skills - useful links and information",
+		"keywords": "utilities, teaching skills, teach, teaching, enhance skills, student, school, college, university, upper school, lower school, advice, teacher",
+		"cover": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/heads_and_lightbulbs_illustration.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/heads_and_lightbulbs_illustration.jpg?itok=I8EO9Lrw",
+		"repeat": "false",
+		"blur": "3.48",
+		"box": "rgba(255,255,255,0.65)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"t¬177¬65¬<font size=\"4\">Our goal is to assist in the discovery of useful sources of information about becoming a more effective teacher, whether you work for the educational system or you run private teaching courses as a business.</font>¬373",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - TEACHING&nbsp;</font>¬542",
+			"t¬109¬40¬<font size=\"4\">Enhance your teaching skills by honing in on advice from the experts in the field and discover useful links.</font>¬426",
+			"i¬110¬494¬https://image.slidesharecdn.com/softskillsformathsteachers-130223124706-phpapp02/95/soft-skills-for-maths-teachers-5-638.jpg¬true¬300",
+			"t¬359¬78¬<font size=\"4\">&nbsp;Online Teaching Tools :&nbsp;</font>¬197",
+			"a¬510¬75¬https://www.noodle.com/articles/32-innovative-online-tools-to-use-in-2015¬noodle.com - 32 Innovative Tools",
+			"a¬543¬75¬http://www.edudemic.com/best-web-tools/¬edudemic.com - InteractiveWebTools4Educators",
+			"a¬441¬76¬https://www.thetechedvocate.org/10-free-edtech-tools-teachers/¬thetechedvocate.org - 10 Free Teaching Tools",
+			"a¬610¬75¬https://blog.ozobot.com/2018/04/19/26-tech-tools-teachers-can-use-inspire-classroom-creativity/¬ozobot.com - 27 Teacher Tech Tools",
+			"a¬642¬73¬https://blog.synap.ac/100-best-tools-for-teachers-and-students/#.W3gWdJNKglU¬blog.synap.ac - 100 Teacher And Student Tools ",
+			"a¬477¬75¬https://www.emergingedtech.com/2014/05/20-excellent-free-tools-for-interactive-collaboration-experiences-in-the-classroom/¬emergingedtech.com - 20 Free Class Collab. Tools",
+			"a¬675¬74¬https://tutorful.co.uk/blog/the-82-hottest-edtech-tools-of-2017-according-to-education-experts¬tutorful.co.uk - 90 Edtech Tools",
+			"a¬707¬75¬https://top5onlinecolleges.org/teaching-tools/¬top5onlinecolleges.org - 99 Online Teaching Tools",
+			"a¬742¬74¬https://globaldigitalcitizen.org/big-list-50-must-try-teaching-tools¬globaldigitalcitizen.org - 50 Online Teaching Tools",
+			"a¬409¬74¬https://elearningindustry.com/321-free-tools-for-teachers-free-educational-technology¬elearningindustry - 321FreeOnlineTeachingTools",
+			"a¬577¬76¬https://www.educatorstechnology.com/¬educatorstechnology.com",
+			"a¬360¬538¬http://teaching.org/resources/top-10-qualities-of-a-great-teacher¬Top 10 Teaching Qualities",
+			"a¬391¬537¬https://www.skillsyouneed.com/learn/teaching-skills.html¬Essential Teaching Skills",
+			"a¬53¬630¬https://busyteacher.org/16874-how-to-become-the-best-teacher-students-advice.html¬How To Become The Best Teacher",
+			"e0¬477¬493¬vrU6YJle6Q4",
+			"e0¬606¬814¬Ebh7PkuWUe8",
+			"m1¬25¬598¬utilities-intropage",
+			"e0¬52¬1286¬lOgnFZsARTE"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

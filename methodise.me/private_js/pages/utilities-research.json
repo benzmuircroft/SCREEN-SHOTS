@@ -1,0 +1,63 @@
+{
+	"id": "utilities-research",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 224,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534541245176,
+		"title": "UTILITIES - RESEARCH",
+		"description": "Enhance your research skills - useful links and information",
+		"keywords": "utilities, research, reliable research, credible research, analysis, data, enhance skills, advice, expertise, experts in the field, useful links",
+		"cover": "https://s8.postimg.cc/oarc7suc5/TITLE_N_PAGE_IMAGE_-_RESEARCH.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://s8.postimg.cc/oarc7suc5/TITLE_N_PAGE_IMAGE_-_RESEARCH.jpg",
+		"repeat": "false",
+		"blur": "3.68",
+		"box": "rgba(255,255,255,0.86)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|h¬93¬965¬377¬ffffff",
+			"|v¬540¬1475¬50¬ffffff",
+			"|v¬535¬1144¬50¬ffffff",
+			"|v¬566¬186¬50¬ffffff",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - RESEARCH&nbsp;</font>¬562",
+			"t¬109¬40¬<font size=\"4\">Enhance your research skills by honing in on advice from the experts in the field and discover useful links.</font>¬426",
+			"i¬261¬583¬https://s8.postimg.cc/jov7zk3p1/IMAGE_-_RESEARCH.jpg¬false¬300",
+			"e0¬421¬40¬LTJygQwYV84",
+			"t¬179¬40¬<font size=\"4\">Researching on the Internet can be a daunting task given the masses of information available.&nbsp; Discover the advanced search techniques and the different research types and tools.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">When you're researching, just how do you distinguish truthful information from 'disinformation'? Check sources!</font></div>¬301",
+			"e0¬601¬39¬XWAzpLY4xyA",
+			"e0¬30¬1000¬qW5_lRCgvpM",
+			"e0¬29¬1330¬dc-vKk205c8",
+			"e0¬30¬669¬R0DQfwc72PM",
+			"e0¬391¬999¬TCVU52T6Cbs",
+			"e0¬580¬1000¬4bQIpHyAdKc",
+			"e0¬390¬1330¬kU8cclVryjw",
+			"e0¬580¬1329¬kh4USq3hwh4",
+			"a¬284¬1346¬https://www.mindful.org/fight-fake-news-make-internet-honest/¬'Rule Of Thumb' Check It Out!",
+			"a¬242¬1342¬https://www.ted.com/talks/markham_nolan_how_to_separate_fact_and_fiction_online¬How To Separate Fact From Fiction",
+			"a¬594¬724¬https://atlasti.com/research-tools/¬Research Tools",
+			"a¬626¬724¬https://bestonlineresearchtools.wordpress.com/best-online-research-techniques/¬Online Research Tools",
+			"a¬268¬1066¬http://www.iop.org/careers/i-am-a-researcher/key-skills-of-researchers/page_58690.html¬Key Research Skills",
+			"e0¬601¬379¬eKlZV_5E5u0",
+			":D¬268¬318¬🔍",
+			":D¬410¬913¬🔎",
+			"m1¬24¬620¬utilities-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

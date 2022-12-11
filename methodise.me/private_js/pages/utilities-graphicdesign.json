@@ -1,0 +1,60 @@
+{
+	"id": "utilities-graphicdesign",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 133,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		},
+		"online-free-image-manipulation-tools": {
+			"id": "online-free-image-manipulation-tools",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534771039217,
+		"title": "UTILITIES - GRAPHIC DESIGN",
+		"description": "Enhance your graphic design skills - useful links and information",
+		"keywords": "utilities, graphic design, enhance skills, graphics, design, advice, expertise, useful links, online tools",
+		"cover": "https://s8.postimg.cc/wz9w1l7s5/Screen_Shot_2018-08-16_at_13.55.35.png",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://s8.postimg.cc/wz9w1l7s5/Screen_Shot_2018-08-16_at_13.55.35.png",
+		"repeat": "false",
+		"blur": "9.55",
+		"box": "rgba(255,255,255,0.81)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|v¬168¬1454¬442¬ffffff",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - GRAPHIC DESIGN&nbsp;</font>¬710",
+			"t¬109¬40¬<font size=\"4\">Enhance your graphic design skills by honing in on advice from the experts in the field and discover useful links.</font>¬466",
+			"t¬280¬130¬<font size=\"3\">Click the following links for a range of useful free online graphic design tools :</font>¬201",
+			"a¬369¬164¬https://www.befunky.com/features/graphic-designer/¬befunky.com",
+			"a¬414¬165¬https://crello.com/¬crello.com",
+			"a¬465¬164¬https://www.fotor.com/features/design.html¬fotor.com",
+			"p¬30¬838¬https://www.creativeboom.com/resources/50-fresh-essential-and-free-resources-for-your-graphic-design-projects/",
+			"a¬266¬872¬https://www.creativebloq.com/graphic-design/free-graphic-design-software-8134039¬Free Graphic Design Software",
+			"p¬321¬839¬https://www.techradar.com/news/the-best-free-software-for-graphic-designers-2017",
+			"p¬549¬840¬https://www.bigapplemedia.com/free-web-design-graphic-design-tools/",
+			"a¬515¬163¬https://ipiccy.com/ft/graphic-design-online¬iPiccy.com",
+			"a¬565¬165¬https://www.fotojet.com/¬fotojet.com",
+			"e0¬30¬1310¬YqQx75OPRa0",
+			"e0¬220¬1310¬pyEvFZs8TjQ",
+			"e0¬409¬1310¬HfO1zhZ-4Cc",
+			"e0¬598¬1308¬54ULxtsRDgo",
+			"m1¬24¬769¬utilities-intropage",
+			"m0¬290¬365¬online-free-image-manipulation-tools"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

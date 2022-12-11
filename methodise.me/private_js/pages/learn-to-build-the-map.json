@@ -1,0 +1,58 @@
+{
+	"id": "learn-to-build-the-map",
+	"key": "1Zf,ia$vs/3]@",
+	"quality": 241,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"embed-live-youtube-video": {
+			"id": "embed-live-youtube-video",
+			"state": "good"
+		},
+		"8a6GCpV0s": {
+			"id": "8a6GCpV0s",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534937931163,
+		"title": "How to make a MEthodise.ME page",
+		"description": "Learn to build the map",
+		"keywords": "how to make, use images and memes, infographics, what is memetics, meme warfare",
+		"cover": "https://ii.yuki.la/e/63/2f60fe5e56df413d387a53c002ec4708afd86def5ce0f1c01df4485fe5d2263e.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"repeat": "true",
+		"blur": "0",
+		"box": "rgba(255,255,255,0.5)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "853x638",
+		"board": [
+			"|v¬193¬717.5¬145¬ffffff",
+			"|r¬206¬510.5¬171¬ffffff",
+			"|h¬112¬208.5¬71¬ffffff",
+			"t¬14¬18.5¬<b><font size=\"2\">HOW TO MAKE A METHODISE.ME PAGE</font></b>¬151",
+			"t¬118¬29.5¬<font size=\"1\">Use images, MEMEs and infographics!</font>¬175",
+			"i¬76¬268.5¬https://s22.postimg.cc/wynnlcbep/1000.png¬true¬232",
+			"t¬237¬538.5¬... Lead the way ...¬85",
+			"e0¬364¬523¬rE3j_RHkqJc",
+			"a¬329¬616.5¬https://en.wikipedia.org/wiki/Memetics¬What is Memetics?",
+			"t¬349¬8.5¬Is it smart to tell people or smart ask them questions?<div>Can questions answer themselves?<br><div>Do hints lead to thoughts?</div></div>¬241",
+			"t¬417¬44.5¬Is this a blog site or are there blog sites for that?<br>Can you link that blog to here?¬231",
+			"|v¬384¬94.5¬32¬ffffff",
+			"i¬444¬39.5¬https://s22.postimg.cc/aujlmx5sh/computing.gif¬false¬241",
+			"i¬11¬639.5¬https://pics.me.me/what-the-eu-will-look-like-without-england-search-google-2918863.png¬true¬196",
+			"i¬50¬547.5¬https://img.fireden.net/a/image/1520/99/1520998866603.jpg¬false¬100",
+			"m0¬590¬774.5¬embed-live-youtube-video",
+			"m1¬11¬414.5¬8a6GCpV0s"
+		],
+		"mines": "jYzSIvWSh0xKAgarZUlcOJROH3SFSUn1",
+		"donate": "42Uv5SkitXdbGLgPvFH1U6hRwFhRNfe4mHSCD1qfzRDMR7G3haEPVA6LoT7XgeVFUXNy7qE8Ym71D18rLN8jPAi38USep9L",
+		"ld": "[{\"@context\":\"http://schema.org/\",\"@type\":\"JobPosting\",\"title\":\"Content Creator\",\"description\":\"Create content that is interesting to view and get paid per view\",\"hiringOrganization\":{\"@type\":\"Organization\",\"name\":\"Methodise Me\",\"sameAs\":\"https://methodise.me\"},\"industry\":\"Information and research\",\"employmentType\":\"VOLUNTEER\",\"datePosted\":\"2018-08-22\",\"validThrough\":\"\",\"jobLocation\":{\"@type\":\"Place\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Anywhere\",\"addressLocality\":\"Earth\",\"addressRegion\":\"\",\"postalCode\":\"xxxxxx\",\"addressCountry\":\"US\"}},\"responsibilities\":\"Ability to use discerment\",\"skills\":\"reasearch, good internet connection\",\"qualifications\":\"n/a\",\"educationRequirements\":\"n/a\",\"experienceRequirements\":\"n/a\"}]"
+	}
+}

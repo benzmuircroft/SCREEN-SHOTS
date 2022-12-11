@@ -1,0 +1,53 @@
+{
+	"id": "utilities-translation",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 90,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534431968673,
+		"title": "UTILITIES - TRANSLATION",
+		"description": "Enhance your translation skills - useful links and information",
+		"keywords": "utilities, translation, translate, translation skills, whole phrase translator, translation tool, online translation tool",
+		"cover": "https://images5.alphacoders.com/317/317068.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://images5.alphacoders.com/317/317068.jpg",
+		"repeat": "false",
+		"blur": "5.98",
+		"box": "rgba(255,255,255,0.69)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|v¬226¬1443¬50¬ffffff",
+			"|v¬406¬975¬50¬ffffff",
+			"t¬38¬39¬<font size=\"7\">&nbsp;UTILITIES - TRANSLATION&nbsp;</font>¬630",
+			"t¬114¬39¬<font size=\"4\">Enhance your translation skills by honing in on advice from the experts in the field and discover useful links.</font>¬430",
+			"t¬330¬96¬<font size=\"4\">Having spent many years in the translation business I really want to share my best links with like-minded people who love languages and being able to utilise the best and most accurate translation tools available out there.&nbsp;&nbsp;</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">Personally I prefer 'whole-phrase' translation tools, so most of the links that I have included are just that.&nbsp;&nbsp;</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">Here are my favourite tried and tested ones ...</font></div></div>¬291",
+			"a¬386¬433¬http://webtranslation.paralink.com/Italian-English-Translation/#¬webtranslation.paralink.com",
+			"a¬427¬433¬http://translation2.paralink.com/Italian-English-Translation/¬translation2.paralink.com",
+			"a¬469¬433¬http://imtranslator.net/translation/italian/to-english/translation/¬imtranslator.net",
+			"a¬509¬433¬https://dictionary.reverso.net/italian-english/¬reverso.net",
+			"a¬551¬434¬https://www.collinsdictionary.com/dictionary/italian-english¬collinsdictionary.com",
+			"p¬194¬829¬http://www.thoughtsontranslation.com/2009/01/12/avoiding-beginners-mistakes/",
+			"a¬149¬831¬http://www.all-translations.com/translation-tips.html¬all-translations.com - Expert Advice",
+			"p¬445¬829¬https://atasavvynewcomer.org/2016/04/19/tips-for-new-translators-interpreters/",
+			"e0¬79¬1299¬3h2sPy6iHdI",
+			"e0¬270¬1300¬iNMVBPP2ulc",
+			"m1¬30¬692¬utilities-intropage"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"id": "health-naturalmedicinesources",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 220,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530433152656,
+		"title": "HEALTH - NATURAL MEDICINE SOURCES",
+		"description": "Natural medicine can significantly boost health and provide an excellent source of essential vitamins, minerals and nutrients. ",
+		"keywords": "natural medicine, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://howtolookpretty.files.wordpress.com/2013/09/iodine-rich-foods-for-healthy-mind-and-body.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬257¬1431¬50¬28e9dc",
+			"|v¬181¬682¬298¬28e9dc",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬94¬66¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬200¬78¬<font size=\"6\">&nbsp;Natural Medicine Sources&nbsp;</font>¬297",
+			"t¬330¬85¬<font size=\"4\">Natural medicine can significantly boost health and provide an excellent source of essential vitamins, minerals and nutrients.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">This works along with other healthy lifestyle hacks, such as regular short bursts of exercise, quality sleep and relaxation to enable the body to detox itself and keep weight levels in control.</font></div>¬291",
+			"e0¬113¬539¬iMvWIAZ21KU",
+			"t¬550¬125¬<font size=\"5\">&nbsp;Explore The Categories :&nbsp;</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">&nbsp;Essential Oils</font></div><div><font size=\"4\">&nbsp;Herbs and Spices</font></div><div><font size=\"4\">&nbsp;Plants = Power</font></div><div><font size=\"4\">&nbsp;Superfood</font></div><div><font size=\"4\">&nbsp;Vitamins and Minerals</font></div>¬208",
+			"a¬69¬616¬https://www.doterra.com/US/en/what-is-an-essential-oil¬Essential Oil Explanation",
+			"e0¬293¬539¬n3tMQPb-ag0",
+			"e0¬471¬539¬IeQKzNCxaBk",
+			"p¬33¬908¬https://articles.mercola.com/sites/articles/archive/2016/05/02/benefits-eating-vegetables.aspx",
+			"a¬228¬968¬http://www.myhdiet.com/healthnews/science_of_her/top-5-benefits-of-eating-vegetables/¬Veggie Benefits",
+			"a¬38¬612¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"e0¬471¬910¬E-TBgVB4J8E",
+			"p¬269¬909¬https://healthblog.uofmhealth.org/wellness-prevention/follow-rainbow-to-healthy-eating",
+			"e0¬121¬1286¬kNuqmhga9dI",
+			"e0¬299¬1285¬tMsrbSaBSFc",
+			"i¬488¬1248¬https://ofy.org/wp-content/uploads/2016/01/eat-the-rainbow.jpg¬false¬380",
+			"i¬641¬726¬https://preventouscosmetic.com/media/Vitamins-and-Minerals.png¬false¬300",
+			"m1¬15¬463¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

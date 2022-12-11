@@ -1,0 +1,45 @@
+{
+	"id": "the-stoned-philosopher",
+	"key": "OZSrl8QzVY[v4",
+	"quality": 31,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"jamiedlux": {
+			"id": "jamiedlux",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534790929349,
+		"title": "The Stoned Philosopher",
+		"description": "Live rambles of anything from Jamie Dlux",
+		"keywords": "the stoned philosopher, live rambles, jamie dlux, jamiedlux, jamiedlux playlist",
+		"cover": "https://yt3.ggpht.com/-ZmsaihONGv8/AAAAAAAAAAI/AAAAAAAAAAA/wj9SzirKBQU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg",
+		"bg": "rgba(0,0,0,1)",
+		"url": "https://i.giphy.com/fC6BAcnLFF2o.gif",
+		"repeat": "false",
+		"blur": "2.93",
+		"box": "rgba(255,255,255,0)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "349,0.72129,0,100",
+		"logo": "118",
+		"size": "1366x638",
+		"board": [
+			"f¬0¬346¬<iframe src=\"https://player.twitch.tv/?channel=jamiedlux\" frameborder=\"0\" allowfullscreen=\"true\" scrolling=\"no\" height=\"378\" width=\"620\"></iframe>",
+			"i¬17¬13¬https://yt3.ggpht.com/-ZmsaihONGv8/AAAAAAAAAAI/AAAAAAAAAAA/wj9SzirKBQU/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg¬true¬288",
+			"t¬261¬2¬<b><i><font color=\"#ffffff\" size=\"7\">THE STONED PHILOSOPHER</font></i></b>¬351",
+			"t¬374¬2¬<font color=\"#ffffff\" size=\"3\">Live rambles of anything from Jamie Dlux</font>¬351",
+			"e0¬417¬13¬lyCpVEz3kG0",
+			"a¬484¬323¬https://www.youtube.com/channel/UCOV0t7zrjQi06pU8k0d2_2g/videos¬<< See All My Videos On YouTube",
+			"f¬2¬978¬<iframe src=\"https://www.twitch.tv/embed/jamiedlux/chat\" frameborder=\"0\" scrolling=\"no\" height=\"500\" width=\"350\"></iframe>",
+			"m0¬511¬666¬jamiedlux¬c80437dfa6504d12874af838125d0bcc0920f809c043db4468d47d9638d3bcd4ad290acc033afa7a7c17eaede39629256eefb78b700bb520935d58dc94ec0b70"
+		],
+		"mines": "LsiXmanduUhjI16Acu3b8y6xr5nZnvyZ",
+		"donate": "49Tu2XSGrCsCusmr1m2f8YVNCCoqkut1YRMfDAupNKFbF4zGkZDxi9g5LQwJ9jAbbYcnik8KzWEw6W8kwHDXXfA45FtXpXv"
+	}
+}

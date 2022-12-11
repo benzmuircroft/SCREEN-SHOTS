@@ -1,0 +1,57 @@
+{
+	"id": "health-naturalremediesforbetterhealth",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 95,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530547423422,
+		"title": "HEALTH - NATURAL REMEDIES4BETTER HEALTH",
+		"description": "The abundance of natural remedies worldwide testify to the fact that health and wellbeing can be obtained from all that is natural",
+		"keywords": "natural remedies, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices, fruit and vegetables",
+		"cover": "http://st1.thehealthsite.com/wp-content/uploads/2016/05/fruits1.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬92¬67¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬184¬30¬<font size=\"6\">Natural Remedies For Better Health</font>¬404",
+			"p¬47¬820¬https://www.curejoy.com/content/best-of-20-home-remedies-health-tips-contributed-by-askveda-community/",
+			"t¬322¬47¬<font size=\"4\">The abundance of natural remedies worldwide testify to the fact that better health can be obtained from all that is natural.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">Good health is all about good nutrition, so fresh fruit, vegetables, seeds, legumes, herbs and spices all&nbsp;play a big part in enhancing our immune system and general well-being.</font></div>¬371",
+			"a¬464¬1476¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"e0¬560¬499¬HFW_3FlG5_Y",
+			"e0¬19¬1140¬X-PQI7nTdjs",
+			"a¬6¬894¬https://motherofhealth.com/natural-remedies-shingles¬Shingles Nature Remedy",
+			"e0¬201¬499¬ierpc9cVq8o",
+			"e0¬378¬498¬hSNboCMf21U",
+			"e0¬18¬498¬Uxn5G5kaq-A",
+			"p¬301¬820¬https://bebrainfit.com/natural-remedies-anxiety/",
+			"p¬510¬819¬https://eunatural.com/natural-sleep-remedies/",
+			"e0¬196¬1140¬_4si-995B6Q",
+			"i¬371¬1189¬https://i.pinimg.com/736x/7d/fe/af/7dfeaf961d6257737a5969ecb9e89b49--natural-remedies-for-asthma-home-remedies-for-asthma-attacks.jpg¬true¬220",
+			"a¬733¬519¬https://www.consciouslifestylemag.com/natural-remedies-for-inflammation-pain/¬20 Remedies To Heal Inflammation and Pain",
+			"i¬30¬1461¬https://i.pinimg.com/736x/40/5b/76/405b76d3d88129d3a26cbad893767917--holistic-healing-natural-healing.jpg¬true¬184",
+			"i¬505¬1445¬https://i.pinimg.com/736x/97/03/ab/9703abf6f0002c860aeba24fbb13da10--weightloss-natural-health.jpg¬true¬200",
+			"m1¬14¬455¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

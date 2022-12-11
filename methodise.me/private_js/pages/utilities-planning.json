@@ -1,0 +1,51 @@
+{
+	"id": "utilities-planning",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 148,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534524939357,
+		"title": "UTILITIES - PLANNING",
+		"description": "Enhance your planning skills - useful links and information",
+		"keywords": "utilities, planning, planning skills, vision, strategy, logistics, innovation, enhance skills, advice, expertise, experts in the field, useful links",
+		"cover": "https://s8.postimg.cc/fd6manzdx/TITLE_N_PAGE_IMAGE_-_PLANNING.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://s8.postimg.cc/fd6manzdx/TITLE_N_PAGE_IMAGE_-_PLANNING.jpg",
+		"repeat": "false",
+		"blur": "6.19",
+		"box": "rgba(255,255,255,0.72)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|v¬351¬1364¬248¬ffffff",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - PLANNING&nbsp;</font>¬540",
+			"t¬109¬40¬<font size=\"4\">Enhance your planning skills by honing in on advice from the experts in the field and discover useful links.</font>¬426",
+			"a¬57¬944¬https://www.thebalancecareers.com/list-of-strategic-planning-skills-2063771¬Planning Skills",
+			"t¬198¬101¬<font size=\"4\">Planning enables an entrepreneur or an organization to chart a course toward the achievement of goals and envisioning desired results. The process begins with reviewing the current situation and identifying what needs to be improved in the future.&nbsp;&nbsp;</font><div><font size=\"4\"><br></font><div><font size=\"4\">To be successful the necessary steps need to be determined, whether measured in financial terms, or in goals that include being highly rated in production standards and customer satisfaction.</font></div></div>¬340",
+			"a¬92¬944¬https://smallbusiness.chron.com/description-planning-skills-21226.html¬Description Of Planning Skills",
+			"a¬130¬945¬https://www.strath.ac.uk/professionalservices/careers/skills/generalskills/planningorganisingskills/¬Planning Skills Simplified",
+			"e0¬580¬460¬1HlbAYSR7es",
+			"e0¬407¬1221¬mLJ34L5UW4E",
+			"e0¬532¬116¬Fqch5OrUPvA",
+			"e0¬218¬1220¬KflzPWf7tcI",
+			"e0¬587¬1221¬KflzPWf7tcI",
+			"p¬279¬707¬https://blog.hubspot.com/marketing/business-resources",
+			"m1¬25¬604¬utilities-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

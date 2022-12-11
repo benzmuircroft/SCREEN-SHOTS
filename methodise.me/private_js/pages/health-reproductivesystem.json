@@ -1,0 +1,60 @@
+{
+	"id": "health-reproductivesystem",
+	"key": "iI2M$L!!wKq2d",
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529085723179,
+		"title": "HEALTH - REPRODUCTIVE SYSTEM",
+		"description": "The Reproductive System consists of specifically designed organs which work together for the purpose of reproduction.",
+		"keywords": "reproductive system, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://www.dollyhamshealth.com/wp-content/uploads/2015/11/Blocked-Fallopian-tube.jpeg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"i¬183¬328¬https://www.marriage.com/advice/wp-content/uploads/2017/03/24-6.jpg¬false¬1300",
+			"|v¬383¬1496¬29¬4ffff4",
+			"|h¬100¬871¬387¬4ffff4",
+			"|h¬586¬328¬50¬4ffff4",
+			"|h¬680¬331¬50¬4ffff4",
+			"|v¬618¬181¬50¬4ffff4",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬92¬65¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬184¬105¬<font size=\"6\">&nbsp;Reproductive System</font>¬235",
+			"e0¬411¬1352¬Mi1saX4eyBk",
+			"e0¬38¬910¬pTFIH6ea6_w",
+			"e0¬39¬571¬4bM2O_eFfJQ",
+			"t¬325¬9¬<font size=\"4\">The Reproductive System&nbsp;consists&nbsp;of specifically designed organs&nbsp;which work together for the purpose of&nbsp;reproduction.</font><span style=\"font-size: large;\">The major internal&nbsp;organs&nbsp;of the female&nbsp;reproductive system&nbsp;include the vagina, uterus and the ovaries, which produce the female's ova. The vagina is attached to the uterus through the cervix, while the fallopian tubes connect the uterus to the ovaries.</span>¬451",
+			"e0¬480¬40¬l_wX285vrrU",
+			"e0¬661¬39¬OD1gW88Lm-Y",
+			"e0¬232¬1351¬qBTgC6lgHI4",
+			"e0¬42¬1253¬cF-yp6s1ZLM",
+			"e0¬568¬369¬3kQjwlT1NUM",
+			"e0¬628¬1354¬odesZD1DCGM",
+			"a¬585¬1436¬http://healthyeating4evry1.blogspot.com/¬Healthy Food 4 Everyone",
+			"p¬640¬713¬https://www.babycentre.co.uk/c1003018/natural-remedies-during-pregnancy",
+			"a¬708¬1126¬https://www.parentingforbrain.com/how-to-be-a-good-parent-10-parenting-tips/¬Parenting Tips",
+			"m1¬15¬467¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	},
+	"quality": 202
+}

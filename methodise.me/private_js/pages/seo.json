@@ -1,0 +1,58 @@
+{
+	"id": "seo",
+	"key": "1Zf,ia$vs/3]@",
+	"quality": 67,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"learn-to-build-the-map": {
+			"id": "learn-to-build-the-map",
+			"state": "good"
+		},
+		"seo-methodiseme-is-the-promotion-tool": {
+			"id": "seo-methodiseme-is-the-promotion-tool",
+			"state": "good"
+		},
+		"utilities-seo": {
+			"id": "utilities-seo",
+			"state": "good"
+		}
+	},
+	"stars": 1,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1531686861654,
+		"title": "Our SEO Plan v1",
+		"description": "Our plan to get visitors using search engines and 000webhost blogs to point back to our selves (we need to create an embed-able cluster of backlinks that look like hey are not embedded!) ",
+		"keywords": "free web hosting, free website builder, iframe backlinks, 000webhost, google seo",
+		"cover": "https://marketinginsidergroup.com/wp-content/uploads/2016/12/oevlwq0.jpg",
+		"bg": "rgba(237,101,2,1)",
+		"url": "",
+		"repeat": "true",
+		"blur": "0",
+		"box": "rgba(2,40,78,1)",
+		"text": "rgba(255,255,255,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "21,0.66667,0,79.588",
+		"logo": "326",
+		"size": "1366x638",
+		"board": [
+			"e0¬32¬62¬hGIXSvcaGrg",
+			"p¬226¬161¬https://www.000webhost.com",
+			"t¬225¬497¬Need to create an iframe-able version of find.php to embed on 000host sites to create a tonne of back links¬151",
+			"t¬297¬584¬register the 000host site on all 100 as .com¬151",
+			"t¬359¬637¬need to submit all 000host sites to google¬151",
+			"a¬376¬784¬https://search.google.com/search-console/index/drilldown?resource_id=https%3A%2F%2Fmethodise.me%2F&item_key=CAMYFyAC¬google SEO site manager",
+			"i¬44¬1006¬https://s22.postimg.cc/m2cirek1t/seo1.jpg¬true¬300",
+			"a¬314¬730¬https://freedirectorysubmissionsites.com/¬100 free Directory's",
+			"i¬419¬581¬http://files.softicons.com/download/web-icons/seo-icons-by-design-bolts/png/256x256/Seo-Tags-Icon.png¬false¬206",
+			"|l¬74¬1012¬334¬ffffff",
+			"m0¬12¬12¬learn-to-build-the-map¬9c3c412995e95a3a80da480436036182645db32414a230d23d301af9123d3ce13f0d768715f4fcc7f8f1559d1cde4bfd508a6cb703e76776955928f1da0082bc",
+			"m0¬312¬1233¬seo-methodiseme-is-the-promotion-tool¬9c3c412995e95a3a80da480436036182645db32414a230d23d301af9123d3ce13f0d768715f4fcc7f8f1559d1cde4bfd508a6cb703e76776955928f1da0082bc",
+			"m1¬24.5¬393¬utilities-seo¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "jYzSIvWSh0xKAgarZUlcOJROH3SFSUn1",
+		"donate": "42Uv5SkitXdbGLgPvFH1U6hRwFhRNfe4mHSCD1qfzRDMR7G3haEPVA6LoT7XgeVFUXNy7qE8Ym71D18rLN8jPAi38USep9L"
+	}
+}

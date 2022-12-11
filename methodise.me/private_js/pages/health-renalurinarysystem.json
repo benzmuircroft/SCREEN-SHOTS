@@ -1,0 +1,59 @@
+{
+	"id": "health-renalurinarysystem",
+	"key": "iI2M$L!!wKq2d",
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529085637197,
+		"title": "HEALTH - RENAL (URINARY) SYSTEM",
+		"description": "The Urinary System consists of the kidneys, ureters, bladder and the urethra, and eliminates waste, regulates blood volume/pressure/pH and controls electrolytes/metabolites.",
+		"keywords": "renal system, urinary system, urinary tract, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://2.bp.blogspot.com/-AQhxuc_cFXM/VqEltEqopwI/AAAAAAAAbYc/qML_qb3jxQ0/s1600/petres.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬592¬226¬50¬31fdff",
+			"|v¬386¬1459¬215¬31fdff",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬90¬68¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬184¬99¬<font size=\"6\">Renal (Urinary) System</font>¬266",
+			"e0¬460¬81¬CkGqp5tr-Qk",
+			"e0¬600¬402¬aUYciJjWe-I",
+			"a¬774¬1427¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"e0¬631¬81¬hiNEShg6JTI",
+			"t¬320¬47¬<font size=\"4\">The Urinary System (AKA&nbsp;Renal System&nbsp;or&nbsp;Urinary Tract)&nbsp;consists of the&nbsp;kidneys, ureters, bladder and the urethra. It functions&nbsp;to eliminate waste from the body, regulate blood volume and blood pressure, control levels of electrolytes and metabolites and regulate blood pH levels.</font><br>¬381",
+			"i¬38¬481¬https://elliels.files.wordpress.com/2012/11/urinary-system.jpg¬true¬300",
+			"i¬29¬815¬http://interactive-biology.com/wp-content/uploads/2012/06/Basic-Urine-Formation-877x1024.jpg¬true¬300",
+			"e0¬408¬480¬j20T6VOqiV4",
+			"e0¬594¬1316¬0wUhspJgBcg",
+			"e0¬414¬1316¬ag_WGlSIKoQ",
+			"e0¬408¬815¬Q6toBA7SRkY",
+			"e0¬233¬1315¬lj-qkP1__oI",
+			"e0¬32¬1150¬PUO8UOdiIdY",
+			"a¬198¬1198¬https://www.youtube.com/watch?v=PUO8UOdiIdY¬Natural Cure For Bladder Infection",
+			"p¬581¬962¬https://www.curejoy.com/content/natural-home-remedies-for-urinary-tract-infection/",
+			"a¬656¬738¬https://www.prevention.com/health/g20480253/3-supplements-that-prevent-utis/¬Natural Supplements",
+			"m1¬4¬450¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	},
+	"quality": 226
+}

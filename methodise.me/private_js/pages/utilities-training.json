@@ -1,0 +1,59 @@
+{
+	"id": "utilities-training",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 150,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"utilities-intropage": {
+			"id": "utilities-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1534609680810,
+		"title": "UTILITIES - TRAINING",
+		"description": "Enhance your training and coaching skills - useful links and information",
+		"keywords": "utilities, training, coaching, tutorial, webinar, enhance skills, expert advice, expertise, experts in the field, usefu links",
+		"cover": "https://s8.postimg.cc/laf351qf9/TITLE_N_PAGE_IMAGE_-_TRAINING.jpg",
+		"bg": "rgba(237,193,2,1)",
+		"url": "https://s8.postimg.cc/laf351qf9/TITLE_N_PAGE_IMAGE_-_TRAINING.jpg",
+		"repeat": "false",
+		"blur": "3.48",
+		"box": "rgba(255,255,255,0.89)",
+		"text": "rgba(0,0,0,1)",
+		"link": "rgba(255,255,255,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "0,0,0,100",
+		"logo": "0",
+		"size": "1680x843",
+		"board": [
+			"|h¬642¬343¬50¬ffffff",
+			"|h¬468¬344¬50¬ffffff",
+			"|v¬546¬195¬50¬ffffff",
+			"|v¬537¬524¬50¬ffffff",
+			"t¬33¬39¬<font size=\"7\">&nbsp;UTILITIES - TRAINING&nbsp;</font>¬523",
+			"t¬109¬40¬<font size=\"4\">Enhance your training/coaching skills by honing in on advice from the experts in the field and discover useful links for making effective tutorials.</font>¬516",
+			"t¬210¬129¬<font size=\"4\">Our goal is to help you discover useful information about all aspects of becoming a more effective trainer or coach, whether you're in business or doing it just because you like helping people to become more confident or successful.</font>¬341",
+			"e0¬400¬49¬zMUSEYR80E8",
+			"e0¬579¬379¬FZ0YnpL_0-k",
+			"e0¬401¬379¬dcy69GnnRZs",
+			"e0¬579¬50¬4UbnN7uSts8",
+			"a¬756¬82¬https://coach4growth.com/coaching-skills/what-is-coaching-in-the-workplace¬Coaching In The Workplace",
+			"a¬278¬1058¬https://www.businessphrases.net/team-building-skills/¬Team Building Skills",
+			"a¬308¬1025¬https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/¬Ultimate Guide - Team Building",
+			"p¬48¬660¬https://elearningindustry.com/best-practices-peer-based-coaching-online-training",
+			"a¬753¬445¬https://www.wishfulthinking.co.uk/2007/06/19/key-coaching-skills/¬Key Coaching Skills",
+			"p¬29¬989¬https://www.chanty.com/blog/ways-to-improve-team-communication-at-work-in-2017/",
+			"p¬47¬1320¬https://www.nutcache.com/blog/how-collaboration-programs-improve-teamwork-and-communication/",
+			"p¬270¬1320¬https://www.entrepreneur.com/article/238908",
+			"e0¬410¬830¬Gfi5JzAdQLk",
+			"e0¬591¬1040¬lRgL76ermo4",
+			"m1¬24¬587¬utilities-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

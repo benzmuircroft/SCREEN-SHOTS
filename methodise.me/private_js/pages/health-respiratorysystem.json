@@ -1,0 +1,61 @@
+{
+	"id": "health-respiratorysystem",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 261,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529085783071,
+		"title": "HEALTH - RESPIRATORY SYSTEM",
+		"description": "The Respiratory System enables the body to breathe by providing oxygen to the body's cells via the mouth and nose, through the respiratory tract to the lungs.",
+		"keywords": "respiratory system, respiratory tract, breathe, breathing, lungs, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://i.ytimg.com/vi/hQzNG89pESQ/maxresdefault.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬168¬1473¬217¬3efff8",
+			"|v¬165¬1033¬42¬3efff8",
+			"|h¬92¬815¬80¬3efff8",
+			"i¬270¬415¬https://www.mokshamantra.com/wp-content/uploads/2016/05/correct-breathing-detox.jpg¬true¬600",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬90¬66¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬180¬113¬<font size=\"6\">&nbsp;Respiratory System</font>¬221",
+			"t¬329¬63¬<font size=\"4\">The Respiratory System enables the body to breathe by providing oxygen to the body's cells via the mouth and nose, through the respiratory tract to the lungs, while at the same time removing carbon dioxide, a waste product that is ingeniously recycled by trees and plants.</font>¬331",
+			"a¬686¬133¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"e0¬497¬75¬kacMYexDgHg",
+			"e0¬31¬516¬SUXc_N0aAEw",
+			"e0¬203¬890¬ooEfQ9hJS-0",
+			"e0¬30¬890¬NPrGYUn3408",
+			"p¬524¬435¬https://www.collective-evolution.com/2014/02/20/15-plants-herbs-that-can-boost-lung-health-heal-respiratory-infections-repair-pulmonary-damage/",
+			"a¬643¬1118¬https://www.globalhealingcenter.com/natural-health/9-best-herbs-lung-cleansing-respiratory-support/¬Lung Cleansing Herbs",
+			"e0¬572¬764¬a46vX_m8KVI",
+			"a¬203¬599¬https://reddremedies.com/natural-support-for-respiratory-health/¬Natural Lung Support",
+			"e0¬379¬1330¬1yk-zZapICU",
+			"e0¬20¬1330¬g9vGeLJAH8c",
+			"a¬600¬1098¬https://www.organicfacts.net/home-remedies/10-herbal-remedies-for-respiratory-problems.html¬Lung Health Herbal Remedies",
+			"e0¬201¬1330¬48y0yclqXTU",
+			"p¬560¬1330¬https://draxe.com/bronchitis-natural-remedies/",
+			"a¬434¬1054¬https://www.health24.com/Natural/Natural-approach/A-natural-approach-to-respiratory-tract-infections-20120721¬Respiratory Tract Infections Natural Cure",
+			"m1¬15¬464¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}
