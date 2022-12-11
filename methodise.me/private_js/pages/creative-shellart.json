@@ -1,0 +1,60 @@
+{
+	"id": "creative-shellart",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 132,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532623494760,
+		"title": "CREATIVE HOBBIES - SHELL ART",
+		"description": "Sea shells are the work of the greatest artist and can be the perfect medium to use to decorate all kinds of things.",
+		"keywords": "creative hobbies, shell art, shell crafts, shell decorations, shell mosaics, shell jewellery, sea shells",
+		"cover": "https://i.pinimg.com/originals/eb/f4/28/ebf42863730440312ff82aefefd477dd.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x793",
+		"board": [
+			"|v¬416¬564¬50¬e2b705",
+			"|v¬427¬234¬199¬e2b705",
+			"|h¬78¬788¬373¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬137.5¬194.5¬<font size=\"5\">&nbsp;Shell Art&nbsp;</font>¬102",
+			"t¬186.5¬55.5¬<font size=\"4\">Sea shells are the work of the greatest artist, our Creator, and they're just perfect for decorating all kinds of things, like boxes, mirrors, jars, frames ...</font>¬376",
+			"i¬152¬601¬https://s22.postimg.cc/6u7v3hhld/IMAGE_-_SEA_SHELLS.jpg¬false¬700",
+			"e0¬279¬92¬Q0oPW1bfxsY",
+			"e0¬446¬92¬FH0fQMiKBoA",
+			"e0¬613¬92¬VHr26BnSucQ",
+			"e0¬280¬420¬wuD6QVeGM4c",
+			"e0¬447¬420¬BTFjzt9bT5k",
+			"e0¬16¬1151¬qecbXY0BATY",
+			"e0¬18¬489¬hkPdkJkf5o8",
+			"e0¬17¬818¬aXdxmdFGitM",
+			"e0¬229¬1240¬zDTVsdpIAA8",
+			"e0¬614¬470¬ECsSPa7FJdE",
+			"e0¬613¬801¬SmwsyaV1G3I",
+			"e0¬612¬1130¬2VC_3aNzgD4",
+			"e0¬407¬1241¬ckM5iow87QY",
+			"a¬190¬1337¬https://www.redtedart.com/shell-craft-ideas/¬Sea Shell Ideas",
+			"m1¬129.5¬324.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

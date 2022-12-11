@@ -1,0 +1,60 @@
+{
+	"id": "creative-drawing",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 89,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532382053435,
+		"title": "CREATIVE HOBBIES - DRAWING",
+		"description": "Drawing can be so relaxing, whether it's a doodle, a sketch or a masterpiece.",
+		"keywords": "creative hobbies, draw, drawing, line drawing, doodle, doodling, sketch, sketching, portrait, landscape, seascape, pencil drawing, charcoal drawing",
+		"cover": "https://www.hellomagazine.com/imagenes/healthandbeauty/makeup/2015052225412/crayola-advise-against-using-pencils-as-eyeliner-and-make-up/0-129-664/crayons--a.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x823",
+		"board": [
+			"|v¬412¬237¬218¬e2b705",
+			"|v¬398¬927¬233¬e2b705",
+			"|v¬418¬1273¬203¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬136.5¬193.5¬<font size=\"5\">&nbsp;Drawing&nbsp;</font>¬103",
+			"t¬185.5¬94.5¬<font size=\"4\">Drawing can be so relaxing, whether it's a doodle, a sketch or a masterpiece.</font>¬301",
+			"e0¬40.5¬624¬um-3OnzOtN8",
+			"e0¬443¬94¬MrAwPJIcCXo",
+			"e0¬268¬95¬hgdK3L7SMP0",
+			"e0¬616¬95¬7VTuTOEfw5s",
+			"e0¬269¬439¬rl7-lbeaDj4",
+			"e0¬444¬440¬B0Y7o1oRWFk",
+			"e0¬616¬439¬XRrKohWdpeQ",
+			"e0¬269¬785¬1t9Jmso9hiw",
+			"e0¬444¬784¬7FnEuvGvOGk",
+			"e0¬617¬784¬HoffjjcvMxE",
+			"e0¬40¬1010¬NtyI_6bGSQM",
+			"e0¬441¬1130¬zNbBYXxuTik",
+			"e0¬270¬1130¬_FEKpeEdCrE",
+			"e0¬616¬1129¬AMZIwqTc42o",
+			"a¬219¬887¬https://design.tutsplus.com/articles/100-easy-drawing-tutorials--cms-28365¬100 Drawing Tutorials",
+			"m1¬50.5¬459¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

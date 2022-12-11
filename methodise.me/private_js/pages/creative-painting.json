@@ -1,0 +1,60 @@
+{
+	"id": "creative-painting",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 111,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532524291076,
+		"title": "CREATIVE HOBBIES - PAINTING",
+		"description": "Whether you prefer acrylics, water colour or any other medium, painting can be so therapeutic for the mind and body.",
+		"keywords": "creative hobbies, painting, acrylics, water colour, painting techniques, artwork, works of art, painting tutorial",
+		"cover": "http://geekchicpro.com/wp-content/uploads/ar/art-palette-with-paint-brush-for-drawing-vector.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x793",
+		"board": [
+			"i¬193¬784¬https://artplace.ca/wp-content/uploads/2018/06/kLkukvzfDi7tOMmbQVFQ.png¬true¬700",
+			"|h¬78¬880¬56¬e2b705",
+			"|v¬364¬1384¬50¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬138.5¬195.5¬<font size=\"5\">&nbsp;Painting&nbsp;</font>¬101",
+			"t¬184.5¬59.5¬<font size=\"4\">Whether you prefer acrylics, water colour or any other medium, painting can be so therapeutic for the mind and body. Learn of the different artistic techniques that can be applied to painting today.</font>¬501",
+			"e0¬447¬60¬utmzT7biNgM",
+			"e0¬618¬60¬-e81gsUbO9c",
+			"e0¬277¬389¬hxqmRcQnY0w",
+			"e0¬448¬390¬iptYs5Odghs",
+			"e0¬617¬390¬eFp4ERqhgjA",
+			"e0¬279¬720¬Kr_lS9AHVVw",
+			"e0¬16¬599¬gt_tY89VlNE",
+			"e0¬17¬920¬29CpFc8dgAI",
+			"e0¬448¬720¬VR0utptjIH0",
+			"e0¬601¬1239¬eZHrtXEdgnY",
+			"e0¬616¬720¬B6e1lzQQr5Q",
+			"e0¬17¬1239¬4ewfn5Y8_Xs",
+			"e0¬228¬1238¬AL39bS8VX9Q",
+			"e0¬400¬1239¬6BTxuvCepIY",
+			"e0¬277¬60¬UhKDc-X41Vo",
+			"m1¬50¬461¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

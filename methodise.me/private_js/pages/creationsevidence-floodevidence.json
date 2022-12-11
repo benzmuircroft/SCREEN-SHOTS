@@ -1,0 +1,59 @@
+{
+	"id": "creationsevidence-floodevidence",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 246,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532802599030,
+		"title": "CREATION'S EVIDENCE - Flood Evidence",
+		"description": "Worldwide an abundance of undeniable proof exists of a catastrophic global flood, from fossils to mountain ranges.",
+		"keywords": "the flood of Noah's day, global flood, catastrophic global flood, the fossil record, fossils, creator, creation, proof of the bible's authenticity",
+		"cover": "https://biologos.org/files/modules/moran_point_views_med_res_koopsen.jpg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬580¬752.5¬50¬8bd7d9",
+			"|h¬660¬1089.5¬38¬8bd7d9",
+			"|v¬511¬265.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬190¬109.5¬<font size=\"4\">Worldwide an abundance of undeniable proof exists of a catastrophic global flood, from the fossil record, to sculptured mountain ranges, to flood legends in all cultures.</font>¬315",
+			"t¬140¬125.5¬<font size=\"5\" color=\"#53feee\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;Flood Evidence Worldwide&nbsp;</font>¬288",
+			"e0¬541¬1119.5¬toh61DVDhZ8",
+			"e0¬362¬120.5¬72NpJ-mj7Jw",
+			"e0¬542¬120.5¬rMBKL8OcB9Y",
+			"e0¬460¬459.5¬882fmumdm9A",
+			"e0¬581¬790.5¬S2Us5pbz_W8",
+			"e0¬20¬1250.5¬afMRHfKIuEs",
+			"p¬202¬1252.5¬http://www.icr.org/article/flood-catastrophic-plate-tectonics/",
+			"i¬201¬1251.5¬https://s22.postimg.cc/e2hdqeyap/IMAGE_FLOOD_ICE_AGE.png¬false¬300",
+			"a¬523¬847.5¬http://www.icr.org/article/ancient-whale-graveyard-points-genesis/¬Whale Graveyard = Flood",
+			"a¬639¬490.5¬https://www.nps.gov/fobu/index.htm¬Butte National Monument Fossils",
+			"a¬482¬860.5¬http://s8int.com/hidden/the-bone-yards.htm¬Mass Burial = Flood",
+			"a¬679¬506.5¬https://creationtoday.org/polystrate-fossils/¬Fossils In Layers Of Sediment",
+			"a¬719¬530.5¬https://www.genesisalive.com/the-question-of-fossils.html¬Human Fossils = Flood",
+			"i¬25.5¬568.5¬https://biologos.org/files/modules/moran_point_views_med_res_koopsen.jpg¬true¬600",
+			"m1¬50.5¬498.5¬creationsevidence-intropage"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

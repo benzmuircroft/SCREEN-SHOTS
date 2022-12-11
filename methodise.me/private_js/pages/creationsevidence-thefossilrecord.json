@@ -1,0 +1,59 @@
+{
+	"id": "creationsevidence-thefossilrecord",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 256,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530386047733,
+		"title": "CREATION'S EVIDENCE - The Fossil Record",
+		"description": "The undeniable evidence and unmistakable proof of our Creator's existence found conclusively in the fossil record for all to see.",
+		"keywords": "the fossil record, fossils, creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "http://environment.umn.edu/wp-content/uploads/2017/02/news_fossil_record_science_hellmann.jpg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬634.5¬819.5¬375¬8bd7d9",
+			"|v¬486.5¬261.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬191¬127.5¬<font size=\"4\">The undeniable evidence and conclusive proof of our Creator's existence is clearly shown in the fossil record. It is there for all to see.</font>¬280",
+			"t¬140¬171.5¬<font size=\"5\" color=\"#53feee\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;The Fossil Record&nbsp;</font>¬193",
+			"e0¬341¬119.5¬R4yGdJ0DOgM",
+			"e0¬531¬117.5¬aESGdORhHlg",
+			"e0¬571¬523.5¬S2Us5pbz_W8",
+			"e0¬572¬852.5¬afMRHfKIuEs",
+			"e0¬571¬1183.5¬qA8imkOCpd8",
+			"a¬520¬667.5¬https://www.genesisalive.com/the-question-of-fossils.html¬1 Million Fossil Deposits Worldwide",
+			"i¬77.5¬511.5¬https://s22.postimg.cc/zc500zbxt/IMAGE_-_BAT_FOSSIL.png¬false¬700",
+			"a¬708.5¬200.5¬https://evolutionnews.org/2009/04/_why_evolution_is_false/¬Fossils Don't Lie!",
+			"a¬375.5¬1344.5¬https://www.genesisalive.com/flood-artifacts.html¬Human Artifacts",
+			"p¬21.5¬1248¬https://creation.com/werner-living-fossils",
+			"a¬240.5¬1308.5¬https://answersingenesis.org/fossils/fossil-record/the-worlds-a-graveyard/¬The World Is A Graveyard",
+			"a¬285.5¬1319.5¬http://biblicalgeology.net/blog/whales-buried-in-desert-graveyard-in-chile-as-waters-of-noahs-flood-receded¬Whale Fossils In Desert",
+			"a¬330.5¬1326.5¬http://evolutionfacts.com/New-material/unnatural%20graveyards.htm¬Unnatural Graveyards",
+			"a¬518.5¬997¬https://www.genesisalive.com/dinosaurs.html¬Dinosaurs Buried With All Major Animal Groups",
+			"m1¬43¬488.5¬creationsevidence-intropage",
+			"t¬66¬860.5¬<font size=\"3\">Bat Fossils</font>¬78"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

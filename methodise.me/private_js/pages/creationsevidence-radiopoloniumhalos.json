@@ -1,0 +1,54 @@
+{
+	"id": "creationsevidence-radiopoloniumhalos",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 185,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000041567",
+	"content": {
+		"date": 1530809214578,
+		"title": "CREATION'S EVIDENCE - Polonium Halos",
+		"description": "The existence of Radio Polonium Halos in granite rock around the planet prove instant miraculous creation by a Creator. ",
+		"keywords": "creator, creation, intelligent design, mathematical evidence, proof of creation, radio polonium halos, granite rock, instant miraculous creation",
+		"cover": "http://www.wiseoldgoat.com/images-cse/cse-part7_slides/radio-polonium-halos.jpg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬640.5¬401.5¬50¬8bd7d9",
+			"|v¬551.5¬262.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬200.5¬104.5¬<font size=\"4\">The existence of Radio Polonium Halos in granite rock around the planet prove instant miraculous creation by a Creator.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">Every question concerning the validity or implications of this evidence has been systematically dealt with and the truth stands firm for instant miraculous creation.</font></div>¬327",
+			"t¬140.5¬103.5¬<font size=\"6\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;Radio Polonium Halos&nbsp;</font>¬331",
+			"a¬651¬894.5¬http://www.ichthus.info/Creation-Evidence/Polonium-Halos/intro.html¬Radio Polonium Halo Study",
+			"a¬606¬877.5¬http://www.halos.com/¬Radio Polonium Halos Explained",
+			"e0¬582¬120.5¬z4UK1UaOsRc",
+			"e0¬575¬1227.5¬OI3DIL4qrc0",
+			"i¬6¬753.5¬https://s22.postimg.cc/3r9449xb5/IMAGE_-_RPH_1.png¬false¬450",
+			"i¬203¬481.5¬https://s22.postimg.cc/vrd7omdn5/IMAGE_-_RPH_2.png¬false¬600",
+			"e0¬410¬119.5¬pEMDqTxfkmM",
+			"e0¬582¬441.5¬toh61DVDhZ8",
+			"p¬266.5¬1226.5¬http://www.icr.org/article/radiohalos-significant-exciting-research-results/",
+			"i¬182.5¬1221.5¬http://www.wiseoldgoat.com/images-cse/cse-part7_slides/radio-polonium-halos.jpg¬false¬310",
+			"m1¬50¬497.5¬creationsevidence-intropage"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

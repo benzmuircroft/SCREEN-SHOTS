@@ -1,0 +1,63 @@
+{
+	"id": "creative-decoupage",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 139,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532372159104,
+		"title": "CREATIVE HOBBIES - DECOUPAGE",
+		"description": "Decoupage ideas and tutorials to help you create your own stunning masterpieces.",
+		"keywords": "creative hobbies, decoupage designs, decoupage art, decoupage furniture, decoupage box, decoupage book cover, decoupage frame, decoupage mirror",
+		"cover": "http://worldofthewoman.com/wp-content/uploads/2016/06/Decoupage-1.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x833",
+		"board": [
+			"|v¬195¬1384¬50¬e2b705",
+			"|v¬188¬1053¬231¬e2b705",
+			"|v¬553¬724¬50¬e2b705",
+			"|v¬192¬723¬50¬e2b705",
+			"i¬313¬43¬https://etyabdoel.com/wp-content/uploads/2018/01/5-kiat-membuat-decoupage.jpg¬false¬500",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬138.5¬180.5¬<font size=\"5\">&nbsp;Decoupage&nbsp;</font>¬127",
+			"t¬186.5¬83.5¬<font size=\"4\">Decoupage ideas and tutorials to help you create your own stunning masterpieces.</font>¬321",
+			"e0¬49¬580¬GaQqTgYw-qs",
+			"e0¬230¬579¬LFVayg2jfM8",
+			"e0¬50¬910¬F5Tg3Ax6QRw",
+			"e0¬230¬1240¬t88JBW3cAy8",
+			"e0¬230¬910¬VR1FXH1pgDA",
+			"e0¬50¬1240¬MEAsHlsc29M",
+			"e0¬410¬579¬8HrHrUmtqyk",
+			"e0¬590¬580¬-Y8IyYIAAfw",
+			"e0¬263¬251¬hMpDaeBnERs",
+			"e0¬652¬32¬YzHLjoI3RGc",
+			"e0¬410¬1240¬vumq1wHMemU",
+			"e0¬589¬1240¬XhUJmXQr1Zg",
+			"e0¬590¬910¬afNA2RtQ0Tk",
+			"e0¬410¬909¬5lqnA-bvqPQ",
+			"a¬272¬27¬https://www.prima.co.uk/craft/easy-craft-ideas/news/a21431/get-started-decoupage/¬How To Decoupage",
+			"a¬738¬382¬https://modpodgerocksblog.com/the-7-steps-to-perfect-mod-podging-every-time/¬7 Steps To Decoupage",
+			"m1¬50.5¬457.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

@@ -1,0 +1,61 @@
+{
+	"id": "creationsevidence-20left-handedaminoacids",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 249,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530021266524,
+		"title": "CREATION'S EVIDENCE - Amino Acids",
+		"description": "Undeniable evidence of creation starts with the fact that 21 left-handed amino acids were needed for life to begin.  An unrefutable impossibility without a Creator.",
+		"keywords": "21 left-handed amino acids, left-handed amino acids, life, oxygen, creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Peptidformationball.svg/400px-Peptidformationball.svg.png",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬638¬837.5¬50¬8bd7d9",
+			"i¬214.5¬456.5¬https://swift.cmbi.umcn.nl/teach/IMAGE/phe.jpg¬false¬450",
+			"i¬51¬925¬http://www.virginiacarreno.com/wp-content/uploads/2017/09/7ed3198cf4e2a756e94ff8c7867fb1d1.jpg¬false¬350",
+			"|h¬99¬832.5¬50¬8bd7d9",
+			"|v¬169¬1405.5¬394¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬190.5¬145.5¬<font size=\"4\">Undeniable evidence of creation starts with the fact that 21 left-handed amino acids were needed for life to begin.&nbsp; An unrefutable impossibility without a Creator.</font>¬251",
+			"t¬139.5¬118.5¬<font size=\"5\">&nbsp;<span style=\"background-color: rgb(215, 143, 147);\">20 Left-handed Amino Acids&nbsp;</span></font>¬303",
+			"a¬320.5¬151.5¬https://wol.jw.org/en/wol/d/r1/lp-e/1101985014¬Could Life Originate By Chance?",
+			"p¬361.5¬116.5¬https://creation.com/origin-of-life",
+			"a¬564.5¬108.5¬https://www.chick.com/reading/books/123/123_01.asp¬Time To Re-write The Text Books Truthfully",
+			"a¬517.5¬563.5¬http://www.icr.org/article/few-reasons-evolutionary-origin-life-impossible/¬Evolutionary Origin Is Impossible",
+			"a¬242.5¬689.5¬http://xwalk.ca/origin.html¬Origin Of Life Is A Miracle",
+			"e0¬40.5¬538.5¬W1_KEVaCyaA",
+			"e0¬41¬869.5¬cQoQgTqj3pU",
+			"p¬573¬869.5¬https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/v/peptide-bond-formation",
+			"e0¬561¬1252.5¬yZ2aY5lxEGE",
+			"e0¬19¬1249.5¬LvQyJU7bDvU",
+			"e0¬201¬1250.5¬NcB_3fJT5KY",
+			"e0¬381¬1250.5¬Sb59aH4gknY",
+			"e0¬600¬116.5¬gG7uCskUOrA",
+			"p¬573¬538.5¬https://www.khanacademy.org/science/biology/macromolecules/proteins-and-amino-acids/v/introduction-to-amino-acids",
+			"m1¬49¬493.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

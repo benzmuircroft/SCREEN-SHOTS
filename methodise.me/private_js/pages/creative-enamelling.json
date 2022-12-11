@@ -1,0 +1,55 @@
+{
+	"id": "creative-enamelling",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 75,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532415484600,
+		"title": "CREATIVE HOBBIES - ENAMELLING",
+		"description": "There are so many things that can be enamelled in your own unique personal style ... jewellery, bottles, mirrors, frames",
+		"keywords": "creative hobbies, enamelling, enamelled jewellery, enamelled bottles, enamelled mirrors, enamelled windows, enamelled plate",
+		"cover": "https://i.pinimg.com/736x/0b/e8/80/0be88001fe066e9a2f219810271d97f5--russian-vodka-vintage-antiques.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x793",
+		"board": [
+			"|v¬464¬241¬50¬e2b705",
+			"i¬58¬521¬http://www.craftanddesign.net/_i/philbarnes_xx_9pr8.jpg¬true¬700",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬136.5¬178.5¬<font size=\"5\">&nbsp;Enamelling&nbsp;</font>¬131",
+			"t¬185.5¬86.5¬<font size=\"4\">There are so many things that can be enamelled in your own unique personal style ... jewellery, bottles, mirrors, frames, plates and even furniture!</font>¬318",
+			"e0¬320¬94¬n7nVtkRUjfE",
+			"e0¬510¬95¬ovZ_kCE6mXw",
+			"e0¬448¬418¬Yndwf4YMK9M",
+			"e0¬592¬902¬c1am2cxLiFg",
+			"e0¬10¬558¬T2WwAnfj7YU",
+			"e0¬10¬881¬AV0fej_sU10",
+			"e0¬340¬1220¬VjQGW-LsOmo",
+			"e0¬529¬1220¬D0d5lEyqXR4",
+			"e0¬148¬1220¬aBaYd89XsCg",
+			"e0¬619¬417¬g_muGxXkXLg",
+			"a¬707¬1277¬http://www.guildofenamellers.org/index.php/41-sec-info-about-the-guild/about-enamelling¬Guild Of Enamellers",
+			"m1¬51¬456.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

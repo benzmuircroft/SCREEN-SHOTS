@@ -1,0 +1,56 @@
+{
+	"id": "creationsevidence-photosynthesis",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 158,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530262251922,
+		"title": "CREATION'S EVIDENCE - Photosynthesis",
+		"description": "Photosynthesis takes place all around the globe - intelligent design proves miraculous creation by our Creator. ",
+		"keywords": "photosynthesis, creator, creation, intelligent design, proof of creation",
+		"cover": "https://s22.postimg.cc/98a5hsck1/TITLE_IMAGE_-_TREE_PHOTOSYNTHESIS.png",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬0¬182.5¬https://cdn.pixabay.com/photo/2017/03/01/19/14/landscape-2109375_960_720.jpg¬false¬1208",
+			"|v¬234¬715.5¬50¬8bd7d9",
+			"|h¬156¬857.5¬50¬8bd7d9",
+			"|v¬234¬1033.5¬50¬8bd7d9",
+			"|h¬324¬853.5¬50¬8bd7d9",
+			"|v¬567¬871.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬200.5¬101.5¬<font size=\"4\">Photosynthesis is the process by which green plants and certain other organisms transform light energy into chemical energy.</font><div><font size=\"4\"><br></font><div><font size=\"4\">During&nbsp;photosynthesis&nbsp;in green plants, light energy is captured and used to convert water, carbon dioxide, and minerals into oxygen and energy-rich organic compounds.</font></div></div>¬337",
+			"t¬139.5¬159.5¬<font size=\"6\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;Photosynthesis&nbsp;</font>¬219",
+			"e0¬260¬889.5¬c2ZTumtpHrs",
+			"e0¬260¬570.5¬6O4ireBktzY",
+			"e0¬430¬728.5¬13h5oC4jIsk",
+			"e0¬91¬890.5¬SnnmmKApT-c",
+			"e0¬601¬728.5¬pwymX2LxnQs",
+			"e0¬90¬568.5¬pFaBpVoQD4E",
+			"p¬532¬1239¬https://biologywise.com/importance-of-photosynthesis",
+			"a¬485¬1255.5¬https://garden.org/courseweb/course1/week2/page6.htm¬Why Is Photosynthesis So Important?",
+			"m1¬51¬499.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

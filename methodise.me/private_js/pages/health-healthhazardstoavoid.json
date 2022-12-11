@@ -1,0 +1,57 @@
+{
+	"id": "health-healthhazardstoavoid",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 142,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000060929828",
+	"content": {
+		"date": 1529182471109,
+		"title": "HEALTH - HEALTH HAZARDS TO AVOID",
+		"description": "All life-forms on our beautiful planet Earth face an enormous bombardment daily of toxins and pollutants",
+		"keywords": "health hazards, poison, toxins, toxic, artificial, additives, chemicals, genetically modified, GMO, Frankenfood, processed food, fluoride, industrial waste, sugar feeds cancer, toxic cookware",
+		"cover": "https://drkimderamo.com/wp-content/uploads/2014/03/frankenfood.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(222,87,105,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬160¬1472¬404¬5bfeff",
+			"|v¬166¬1143¬399¬5bfeff",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬92¬66¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬181¬73¬<font size=\"6\">Health Hazards To Avoid</font>¬306",
+			"e0¬19¬1000¬guxledYcXcE",
+			"i¬20¬470¬https://fabinyour40s.files.wordpress.com/2014/04/makeup1.jpg¬true¬500",
+			"t¬323¬68¬<font size=\"5\">All life-forms on our beautiful planet Earth face an enormous bombardment daily of toxins and pollutants in the food we eat, the water we drink, the air we breath.&nbsp;&nbsp;</font><div><font size=\"5\"><br></font></div><div><font size=\"5\">We are increasingly at risk from carcinogenic chemicals that 'Big Business' throw at us from all angles, along with their promises that \"It's good for you!\"&nbsp;&nbsp;</font></div><div><font size=\"5\"><br></font></div><div><font size=\"5\">Be wise and make the right choices for your health and that of your family.</font></div>¬341",
+			"e0¬19¬1329¬0uATfA_WoTA",
+			"e0¬200¬1000¬F64Vq8VhqIw",
+			"a¬724¬165¬https://www.lifehack.org/articles/lifestyle/20-holiday-health-hazards.html¬Holiday Hazards",
+			"a¬730¬1167¬http://fluoridealert.org/news/fluoride-disposing-of-mining-waste-through-your-body/¬Fluoride = Toxic Industrial Waste",
+			"e0¬199¬1330¬sd93b1rA350",
+			"e0¬379¬1331¬4kieTRLt8ks",
+			"e0¬559¬1330¬RY5st8UBfLs",
+			"e0¬380¬1000¬Hjh6T4x8-Zs",
+			"a¬731¬966¬http://85777083.weebly.com/holocaust-role.html¬Fluoride First Used By Hitler",
+			"e0¬561¬1000¬914lSW7dw0E",
+			"p¬604¬581¬https://www.alexfergus.com/blog/how-a-toxins-are-making-you-gain-fat-toxic-diet",
+			"m1¬-3¬442¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

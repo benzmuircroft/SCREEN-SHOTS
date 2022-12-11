@@ -1,0 +1,55 @@
+{
+	"id": "creationsevidence-fractalsinnature",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 75,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530220538052,
+		"title": "CREATION'S EVIDENCE - Fractals In Nature",
+		"description": "Fractals throughout the universe provide undeniable evidence of intelligent design, leading to unmistakable proof of our Creator.",
+		"keywords": "fractals, mathematical patterns in nature, creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "http://m.blog.hu/sz/szubkult/image/hird/fractal_10.jpg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|v¬489.5¬265.5¬50¬8bd7d9",
+			"|v¬564.5¬1103.5¬50¬8bd7d9",
+			"i¬297.5¬444.5¬https://s22.postimg.cc/k7hko8jf5/IMAGE_-_FRACTALS_2.png¬false¬500",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬190.5¬136.5¬<font size=\"4\">Fractals throughout the universe provide undeniable evidence of intelligent design, leading to unmistakable proof of our Creator.</font>¬264",
+			"t¬140.5¬167.5¬<font style=\"background-color: rgb(215, 143, 147);\" size=\"5\">&nbsp;Fractals In Nature&nbsp;</font>¬204",
+			"i¬28.5¬1043.5¬https://s22.postimg.cc/isfzzfxqp/IMAGE_-_FRACTALS_1.png¬false¬500",
+			"i¬257.5¬925.5¬https://i.pinimg.com/originals/44/96/71/44967103060df190c32427b529093f9c.jpg¬false¬150",
+			"e0¬349.5¬121.5¬XwWyTts06tU",
+			"e0¬422.5¬960.5¬hJ6Ce8P8e2o",
+			"e0¬130.5¬609.5¬V6wiLQZ9etk",
+			"e0¬520.5¬122.5¬GKYG__-HATI",
+			"e0¬596.5¬960.5¬dZM45mfJQ40",
+			"a¬88.5¬691.5¬https://www.youtube.com/watch?v=dZM45mfJQ40¬Fractals For Food",
+			"a¬692.5¬143.5¬http://gurumagazine.org/askaguru/can-you-explain-fractals-please/¬Fractals Explained and Zoom Video",
+			"a¬573.5¬1281.5¬https://sites.google.com/site/introappfractaldesigns/home/fractals-in-humans¬Fractals In Humans",
+			"m1¬50¬499.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

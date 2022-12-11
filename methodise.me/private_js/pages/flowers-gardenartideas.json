@@ -1,0 +1,61 @@
+{
+	"id": "flowers-gardenartideas",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 133,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000193494",
+	"content": {
+		"date": 1529942186461,
+		"title": "FLOWERS - GARDEN ART IDEAS",
+		"description": "Here are a fantastic array of garden art and design ideas that will brighten up any garden and make your outdoor leisure time a truly enjoyable experience each and every time.",
+		"keywords": "garden art ideas, garden hacks, stepping stones, mosaics, shabby chic garden ideas, DIY garden decorations",
+		"cover": "https://diybooster.com/wp-content/uploads/2016/11/diy-stepping-stones-6.jpg",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|v¬584¬166¬50¬eeb868",
+			"|v¬164¬872¬404¬eeb868",
+			"|v¬156¬521¬410¬eeb868",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"i¬20¬1069¬https://diybooster.com/wp-content/uploads/2016/11/diy-stepping-stones-6.jpg¬false¬550",
+			"i¬488¬1374¬http://www.diyhowto.org/wp-content/uploads/DIY-Glassware-Dish-Flower-Garden-Art-20-Colorful-Garden-Art-DIY-Decorating-Ideas.jpg¬false¬270",
+			"a¬727¬1435¬http://www.diyhowto.org/diy-garden-art-decorating-ideas/¬DIY Garden Art Ideas",
+			"e0¬449¬20¬REWXtUyEyYA",
+			"t¬145¬18¬<font size=\"5\">Here are a fantastic array of garden art and design ideas that will brighten up any garden and make your outdoor leisure time a truly enjoyable experience each and every time.</font>¬271",
+			"e0¬198¬379¬HnYU6CLsLvk",
+			"e0¬20¬380¬A10fCzQywXg",
+			"e0¬20¬729¬nUzVBJXKvGc",
+			"e0¬199¬730¬ZDlytas3wNk",
+			"e0¬628¬19¬341ZuAhvjKU",
+			"e0¬380¬379¬NipWTHMUmi0",
+			"e0¬561¬379¬6j8KNKOCEEI",
+			"e0¬381¬730¬RJXDBiTm_5I",
+			"e0¬561¬730¬-TIZzNLZtwc",
+			"a¬591¬1130¬http://www.woohome.com/garden-2/34-easy-and-cheap-diy-art-projects-to-dress-up-your-garden¬DIY Garden Art Ideas",
+			"a¬633¬1127¬http://diycozyhome.com/diy-garden-art/¬DIY Garden Art Ideas",
+			"a¬676¬1104¬http://gardendiyideas.com/1000-metal-garden-art-ideas¬1000 Metal Garden Art Ideas",
+			"a¬716¬1116¬https://www.funkyjunkinteriors.net/2014/05/salvaged-garden-art-projects.html¬From Junk to Garden Art",
+			"t¬106¬28¬<font size=\"5\" color=\"#fc5b7d\">&nbsp;GARDEN ART IDEAS&nbsp;</font>¬248",
+			"m1¬27¬300¬flowers-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

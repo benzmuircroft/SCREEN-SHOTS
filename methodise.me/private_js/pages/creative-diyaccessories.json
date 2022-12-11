@@ -1,0 +1,58 @@
+{
+	"id": "creative-diyaccessories",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 94,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532379817686,
+		"title": "CREATIVE HOBBIES - DIY ACCESSORIES",
+		"description": "Making DIY accessories can be so much fun as you can even recycle old things into stunning new accessories or jewellery.",
+		"keywords": "creative hobbies, diy accessories, re-cycle, accessorise, hair accessories, diy jewellery",
+		"cover": "https://i.pinimg.com/originals/a0/86/ff/a086ff788e15d702d0f306f2aa6a39da.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1610x823",
+		"board": [
+			"|h¬92¬857¬392¬e2b705",
+			"|h¬269¬911¬50¬e2b705",
+			"|h¬641¬1015¬50¬e2b705",
+			"|h¬463¬1130¬50¬e2b705",
+			"i¬47¬48¬https://i.pinimg.com/originals/a0/86/ff/a086ff788e15d702d0f306f2aa6a39da.jpg¬true¬640",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬139.5¬155.5¬<font size=\"5\">&nbsp;DIY Accessories&nbsp;</font>¬183",
+			"t¬186.5¬84.5¬<font size=\"4\">Making DIY accessories can be so much fun as you can even recycle old things into stunning new accessories or jewellery.</font>¬317",
+			"e0¬580.5¬729¬8jL9vV8w9nQ",
+			"e0¬578.5¬1060¬Z8r2rpqMFT0",
+			"e0¬30.5¬910¬sVM2iYOFLdM",
+			"e0¬29.5¬580¬S-NR5twNJIU",
+			"e0¬398.5¬840¬u5zFyfJTRI4",
+			"e0¬398.5¬1169¬ACRYFIzswfs",
+			"e0¬28.5¬1240¬CJWwUNqiFNM",
+			"e0¬210.5¬1280¬zr1ldiLCd-U",
+			"e0¬210.5¬950¬fvJ-8l5LNSw",
+			"e0¬210.5¬621¬6ni0BUdUb5s",
+			"a¬645¬1392¬https://www.livingino.com/40-brilliant-diy-hair-accessories/¬40 DIY Hair Accessories",
+			"m1¬51¬458.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

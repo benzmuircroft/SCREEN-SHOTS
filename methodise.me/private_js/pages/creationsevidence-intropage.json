@@ -1,0 +1,127 @@
+{
+	"id": "creationsevidence-intropage",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 397,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-20left-handedaminoacids": {
+			"id": "creationsevidence-20left-handedaminoacids",
+			"state": "good"
+		},
+		"creationsevidence-dnatheblueprint": {
+			"id": "creationsevidence-dnatheblueprint",
+			"state": "good"
+		},
+		"creationsevidence-evolutionlie": {
+			"id": "creationsevidence-evolutionlie",
+			"state": "good"
+		},
+		"creationsevidence-finetuning": {
+			"id": "creationsevidence-finetuning",
+			"state": "good"
+		},
+		"creationsevidence-fractalsinnature": {
+			"id": "creationsevidence-fractalsinnature",
+			"state": "good"
+		},
+		"creationsevidence-intelligentdesign": {
+			"id": "creationsevidence-intelligentdesign",
+			"state": "good"
+		},
+		"creationsevidence-photosynthesis": {
+			"id": "creationsevidence-photosynthesis",
+			"state": "good"
+		},
+		"creationsevidence-radiopoloniumhalos": {
+			"id": "creationsevidence-radiopoloniumhalos",
+			"state": "good"
+		},
+		"creationsevidence-floodevidence": {
+			"id": "creationsevidence-floodevidence",
+			"state": "good"
+		},
+		"creationsevidence-thefossilrecord": {
+			"id": "creationsevidence-thefossilrecord",
+			"state": "good"
+		},
+		"creationsevidence-thecell": {
+			"id": "creationsevidence-thecell",
+			"state": "good"
+		},
+		"creationsevidence-thegoldenangle": {
+			"id": "creationsevidence-thegoldenangle",
+			"state": "good"
+		},
+		"homepage": {
+			"id": "homepage",
+			"state": "good"
+		},
+		"creationsevidence-thegoldenratio": {
+			"id": "creationsevidence-thegoldenratio",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000005854",
+	"content": {
+		"date": 1530809108591,
+		"title": "CREATION'S EVIDENCE",
+		"description": "The whole universe is filled with undeniable evidence of intelligent design, leading to unmistakable proof of our Creator.",
+		"keywords": "creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "https://jerusalemchambercom.files.wordpress.com/2017/08/creation-universe-1.jpeg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬138.5¬595.5¬https://jerusalemchambercom.files.wordpress.com/2017/08/creation-universe-1.jpeg¬false¬840",
+			"|v¬167.5¬662.5¬222¬8bd7d9",
+			"|h¬80.5¬883.5¬373¬8bd7d9",
+			"|v¬174.5¬1393.5¬395¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬143¬96.5¬<font size=\"5\">The whole universe is filled with undeniable evidence of intelligent design, leading to unmistakable proof of our Creator.</font>¬341",
+			"e0¬380.5¬519.5¬i4T2Ulv48nw",
+			"e0¬20.5¬1249¬Ig9RUaJe00c",
+			"e0¬199.5¬1251.5¬-WF6V9RQFz8",
+			"e0¬380.5¬1250.5¬g2MdUhk9QWw",
+			"e0¬561.5¬1250.5¬u_CaCie8R4U",
+			"e0¬18.5¬918.5¬_-OvwkPeXzk",
+			"a¬540.5¬1008.5¬https://answersingenesis.org/evidence-for-creation/¬Evidence Of Creation",
+			"a¬731.5¬1284.5¬http://www.icr.org/article/science-confirms-biblical-creation/¬Science Confirms Biblical Creation",
+			"p¬582.5¬612.5¬http://www.icr.org/nature/",
+			"a¬510.5¬985.5¬https://answersingenesis.org/evidence-for-creation/the-10-best-evidences-from-science-that-confirm-a-young-earth/¬Genesis Account Confirmed",
+			"p¬582.5¬933.5¬http://www.icr.org/creation-fossil/",
+			"e0¬191.5¬845.5¬CBeCxKzYiIA",
+			"e0¬201.5¬519.5¬EE76nwimuT0",
+			"a¬547.5¬675.5¬https://tv.jw.org/#en/mediaitems/pub-ivwc_1_VIDEO¬The Wonders Of Creation",
+			"t¬286¬84.5¬<font style=\"background-color: rgb(215, 143, 147);\" size=\"5\">&nbsp;Explore The Categories :&nbsp;</font><div><br></div><div>&nbsp; <font size=\"5\">&nbsp;20 Left-Handed Amino Acids</font></div><div><font size=\"5\">&nbsp;DNA - The Blueprint Of Life</font></div><div><font size=\"5\">&nbsp;Evolution Lie</font></div><div><font size=\"5\">&nbsp;Fine Tuning Of The Universe</font></div><div><font size=\"5\">&nbsp;Flood Evidence Worldwide</font></div><div><font size=\"5\">&nbsp;Fractals In Nature</font></div><div><font size=\"5\">&nbsp;Intelligent Design</font></div><div><font size=\"5\">&nbsp;Photosynthesis</font></div><div><font size=\"5\">&nbsp;Radio Polonium Halos</font></div><div><font size=\"5\">&nbsp;The Cell</font></div><div><font size=\"5\">&nbsp;The Fossil Record</font></div><div><font size=\"5\">&nbsp;The Golden Angle 137.5</font></div><div><font size=\"5\">&nbsp;The Golden Ratio 1.618034</font></div>¬361",
+			"i¬559.5¬420.5¬https://s22.postimg.cc/ukrr9ygxt/IMAGE_-_SYMETRY_IN_NATURE.jpg¬false¬180",
+			"e0¬19.5¬589.5¬2SPgkLc6DOQ",
+			"m0¬325¬393.5¬creationsevidence-20left-handedaminoacids",
+			"m0¬355¬390.5¬creationsevidence-dnatheblueprint",
+			"m0¬386¬235.5¬creationsevidence-evolutionlie",
+			"m0¬414¬387.5¬creationsevidence-finetuning",
+			"m0¬479¬288.5¬creationsevidence-fractalsinnature",
+			"m0¬506¬278.5¬creationsevidence-intelligentdesign",
+			"m0¬537.5¬248.5¬creationsevidence-photosynthesis",
+			"m0¬564.5¬326.5¬creationsevidence-radiopoloniumhalos",
+			"m0¬448¬369.5¬creationsevidence-floodevidence",
+			"m0¬622¬273.5¬creationsevidence-thefossilrecord",
+			"m0¬596¬175.5¬creationsevidence-thecell",
+			"m0¬658¬329.5¬creationsevidence-thegoldenangle",
+			"m1¬50¬494.5¬homepage",
+			"m0¬689.5¬361.5¬creationsevidence-thegoldenratio"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

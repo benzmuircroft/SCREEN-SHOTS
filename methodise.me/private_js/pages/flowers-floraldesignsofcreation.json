@@ -1,0 +1,58 @@
+{
+	"id": "flowers-floraldesignsofcreation",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 211,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529941196785,
+		"title": "FLOWERS - FLORAL DESIGNS OF CREATION",
+		"description": "Spectacular floral patterns surround us worldwide ... stop and take a good look at the breathtaking designs",
+		"keywords": "floral patterns, mathematical design, creation, spectacular plants, wild flowers, cacti, succulents, prairie, alpines",
+		"cover": "https://farm7.staticflickr.com/6205/6086105698_81cfbcd872_b.jpg",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|v¬543¬166¬50¬eeb868",
+			"|h¬684¬397¬387¬eeb868",
+			"|v¬301¬1503¬214¬eeb868",
+			"i¬255¬948¬https://s-media-cache-ak0.pinimg.com/originals/c8/73/69/c873696d6eaf2ea1c68033d49ed6cef5.jpg¬false¬500",
+			"i¬123¬259¬https://i2.wp.com/getsetflyscience.com/wp-content/uploads/2018/03/Fibonacci-Sequence-galaxy.jpg¬false¬800",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"i¬11¬1078¬https://farm4.staticflickr.com/3279/2585478728_f6370052c7.jpg¬false¬250",
+			"i¬547¬1113¬https://i.pinimg.com/originals/62/59/b9/6259b9172b9d41fc13231f7d5e90a413.jpg¬false¬200",
+			"e0¬20¬389¬IGKLZ3NO9Qk",
+			"t¬139¬31¬<font size=\"5\">Spectacular floral patterns surround us worldwide ... remember to stop and take a good look at the breathtaking designs of creation.</font>¬241",
+			"e0¬509¬1359¬Ig9RUaJe00c",
+			"a¬77¬772¬http://nature-explorations.com/galleries/pattern-and-design-in-nature/¬Design Patterns In Nature",
+			"p¬351¬10¬https://www.treehugger.com/slideshows/natural-sciences/nature-blows-my-mind-hypnotic-patterns-sunflowers/",
+			"p¬588¬100¬https://www.boredpanda.com/geometry-symmetry-plants-nature/",
+			"a¬37¬799¬https://permaculturenews.org/2012/05/24/plant-families-patterns-in-nature/¬Patterns in Nature",
+			"e0¬330¬1357¬ahXIMUkSXX0",
+			"e0¬151¬1359¬1_uMGCcRzq0",
+			"t¬106¬11¬<font size=\"4\" color=\"#fc5b7d\">&nbsp;FLORAL DESIGNS OF CREATION&nbsp;</font>¬288",
+			"e2¬601¬483¬125305723",
+			"e2¬600¬751¬121863459",
+			"m1¬27¬296¬flowers-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"id": "flowers-thegoldenangleofcreation",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 263,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 1,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530810082300,
+		"title": "FLOWERS - THE GOLDEN ANGLE OF CREATION",
+		"description": "The Golden Angle, approximately 137.5° comes from the golden angle’s connection to the Golden Ratio.",
+		"keywords": " flowers, garden, bunch, A-Z flower listing, edible flowers, garden art ideas, garden hacks, health, medicinal plants, rare varieties, survival plants, wild flowers, cacti, succulents, prairie, alpines",
+		"cover": "https://i.pinimg.com/originals/fe/da/8d/feda8d7a488447188e79cfb99a9d12fd.png",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|h¬92¬660¬50¬eeb868",
+			"i¬217¬356¬https://i.pinimg.com/originals/fe/da/8d/feda8d7a488447188e79cfb99a9d12fd.png¬false¬570",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"t¬140¬56¬<font size=\"5\">The&nbsp;Golden Angle, approximately 137.5&nbsp;comes from the golden angles connection to the&nbsp;Golden Ratio.</font>¬187",
+			"p¬582¬23¬http://gofiguremath.org/natures-favorite-math/the-golden-ratio/the-golden-angle/",
+			"a¬366¬58¬http://www.science.smith.edu/phyllo/About/fibogolden.html¬The Golden Angle 137.5",
+			"a¬34¬1061¬http://www.trente.eu/tag/golden-angle/¬Demo Of The Golden Angle",
+			"e0¬407¬23¬APNmKnW70cY",
+			"e0¬31¬1320¬HY2cr7UedMA",
+			"a¬211¬1371¬https://wol.jw.org/en/wol/d/r1/lp-e/102006328¬Intriguing Patterns In Plants",
+			"a¬242¬1346¬https://www.sciencedirect.com/science/article/pii/S1002007108003419¬Modelling Golden Sections In Plants",
+			"p¬290¬1320¬https://www.treehugger.com/slideshows/natural-sciences/nature-blows-my-mind-hypnotic-patterns-sunflowers/",
+			"a¬66¬1080¬http://www.mike-naylor.com/resources/naylor-seeds.pdf¬Text Book Examples",
+			"a¬99¬1071¬http://www.seekingtruth.co.uk/Gods_amazing_design.htm¬God's Amazing Designs",
+			"a¬134¬1058¬http://education.abc.net.au/HOME?_ESCAPED_FRAGMENT_=/SEARCH/1#!/media/1003944/are-plants-mathematicians-¬Are Plants Mathematicians?",
+			"e0¬32¬701¬kkGeOWYOFoA",
+			"e0¬31¬369¬AvvB8JkxZuY",
+			"e0¬538¬1320¬CMqOpiORMm4",
+			"a¬171¬1081¬https://www.popmath.org.uk/rpamaths/rpampages/sunflower.html¬The Sunflower 137.5",
+			"i¬229¬956¬http://www.issaris.gr/files/%CE%A6%CF%85%CF%84%CE%AC/%CE%A0%CE%BF%CF%8E%CE%B4%CE%B7/Gazania%20%CE%B1.jpg¬false¬340",
+			"i¬579¬1041¬https://ssl.c.photoshelter.com/img-get2/I0000KTDrW66gN1E/fit=188x188/fill=/g=G0000BCOjVBFo13w/I0000KTDrW66gN1E.jpg¬false¬200",
+			"t¬109¬13¬<font size=\"4\" color=\"#fc5b7d\">&nbsp;GOLDEN ANGLE OF CREATION&nbsp;</font>¬279",
+			"m1¬26¬299¬flowers-intropage"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

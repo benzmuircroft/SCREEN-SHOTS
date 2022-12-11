@@ -1,0 +1,56 @@
+{
+	"id": "creationsevidence-thegoldenratio",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 105,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530398966164,
+		"title": "CREATION'S EVIDENCE - The Golden Ratio",
+		"description": "The Golden Angle throughout nature shows undeniable evidence of intelligent design from our Creator, the greatest physicist and mathematician.",
+		"keywords": "the golden angle 137.5, creator, creation, intelligent design, mathematical evidence, proof of creation, the greatest physicist, the greatest mathematician",
+		"cover": "http://4.bp.blogspot.com/-AvDZ1G8cnYc/VPLl8VK6mAI/AAAAAAAAAFM/YpDK-TeYqtg/s1600/golden-ratio.jpg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬591.5¬787.5¬415¬8bd7d9",
+			"|v¬495.5¬981.5¬50¬8bd7d9",
+			"|v¬563.5¬261.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬198.5¬102.5¬<font size=\"4\">The Golden Ratio throughout nature shows undeniable evidence of intelligent design from our Creator, the greatest physicist and mathematician.</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">Also known as the 'Divine Proportion', 1.618034 was used in the building of the Arch Of The Covenant and also the Ark that Noah built.</font></div>¬333",
+			"t¬139.5¬82.5¬<font size=\"6\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;The Golden Ratio 1.618034&nbsp;</font>¬373",
+			"i¬21.5¬557.5¬http://catalystarchitecture.com/pdc/CA_GRAPHICS/RFP-RFQ-SOQ/LAC_NC/BOARDS/02_Biomimicry_Nature_Inspiration/FibonacciGalaxy.jpg¬false¬410",
+			"i¬24.5¬988.5¬https://cdn.fractalenlightenment.com/wp-content/uploads/2013/11/Rose-petals-696x443.jpg¬false¬500",
+			"e0¬599.5¬117.5¬keLN89CWZ-A",
+			"e0¬531.5¬1189.5¬eFV8UZYFTDk",
+			"e0¬357.5¬837.5¬KvVp44vG7e0",
+			"e0¬530.5¬840.5¬4VrcO6JaMrM",
+			"e0¬529.5¬490.5¬aB_KstBiou4",
+			"e0¬428.5¬119.5¬8A3JnWzgXGk",
+			"a¬697.5¬903.5¬https://io9.gizmodo.com/5985588/15-uncanny-examples-of-the-golden-ratio-in-nature¬Golden Ratio In Nature",
+			"a¬696.5¬553.5¬https://www.mathsisfun.com/numbers/nature-golden-ratio-fibonacci.html¬Golden Ratio Explained",
+			"a¬699.5¬1240.5¬https://www.mathmindworkshop.com/golden-angle.html¬Golden Ratio - More Videos",
+			"m1¬49¬497¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

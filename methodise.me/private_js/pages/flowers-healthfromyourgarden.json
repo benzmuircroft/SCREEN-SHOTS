@@ -1,0 +1,63 @@
+{
+	"id": "flowers-healthfromyourgarden",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 273,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529942964397,
+		"title": "FLOWERS - HEALTH FROM YOUR GARDEN",
+		"description": "Health benefits can be gained for free straight from your own garden.  Many plants that are considered as unwanted weeds actually are very good for us.",
+		"keywords": "medicinal benefits of common garden weeds, medicinal properties, garden weeds",
+		"cover": "https://s22.postimg.cc/za3g2v5c1/TITLE_N_PAGE_IMAGE_-_H_FRM_YR_G.jpg",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|v¬497¬1480¬50¬eeb868",
+			"|v¬177¬1145¬52¬eeb868",
+			"|v¬152¬813¬455¬eeb868",
+			"|v¬179¬483¬428¬eeb868",
+			"|v¬600¬152¬42¬eeb868",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"e0¬452¬10¬YmtwlAC3KAk",
+			"t¬140¬25¬<font size=\"5\">Health benefits can be gained straight from your own garden, for free.&nbsp; Many plants that are considered as unwanted weeds actually are very good for us.&nbsp;</font><div><font size=\"5\"><br></font></div><div><font size=\"5\">Discover some of them ...&nbsp;</font></div>¬254",
+			"e0¬630¬9¬ywgg5x8yWWQ",
+			"e0¬29¬340¬-MCBEHR0zn8",
+			"e0¬220¬340¬DkGJquaFIZI",
+			"e0¬410¬341¬xJBiXKoKB5g",
+			"e0¬31¬670¬3YM0-19Ng5U",
+			"e0¬600¬340¬OvVJhRr8is0",
+			"e0¬220¬670¬nPQi-HaNMeE",
+			"e0¬411¬670¬nUMbfaSEVRM",
+			"e0¬31¬1000¬urMRAfb8y-4",
+			"e0¬220¬1002¬6MOEGCTNu58",
+			"e0¬600¬671¬gD3eqfIyJEs",
+			"p¬528¬1328¬http://www.naturallivingideas.com/18-edible-backyard-weeds-you-should-stop-killing-start-eating/",
+			"a¬410¬1013¬http://ecosalon.com/edible-medicinal-backyard-weeds-plants/¬Medicinal Properties of Common Weeds",
+			"p¬304¬1329¬https://www.gardeningknowhow.com/edible/herbs/hgen/a-weed-is-just-a-weed-or-is-it-weeds-that-are-herbs.htm",
+			"i¬56¬1330¬https://s22.postimg.cc/za3g2v5c1/TITLE_N_PAGE_IMAGE_-_H_FRM_YR_G.jpg¬false¬300",
+			"i¬471¬1000¬http://cdn7.bigcommerce.com/s-2ba96/images/stencil/900x1800/products/717/1193/Borage_Borago_officinalis__57032.1452727262.jpg¬false¬300",
+			"t¬109¬18¬<font color=\"#fc5b7d\" size=\"4\">&nbsp;HEALTH FROM YOUR GARDEN&nbsp;</font>¬269",
+			"m1¬25¬293¬flowers-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"id": "flowers-flowervarieties",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 221,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1529941764410,
+		"title": "FLOWERS - FLOWER VARIETIES",
+		"description": "An explanation of ANGIOSPERMS or flowering plant varieties.",
+		"keywords": " angiosperms, flowers, flowering plants, perennials, annuals, bi-annuals, wild flowers, cacti, succulents, prairie, alpines",
+		"cover": "https://s22.postimg.cc/3l008kgtd/TITLE_IMAGE_-_FLOWER_MIX.jpg",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|v¬449¬152¬209¬eeb868",
+			"|v¬413¬1454¬219¬eeb868",
+			"|h¬89¬652¬50¬eeb868",
+			"i¬279¬904¬https://s22.postimg.cc/mfvqyx3zl/FLWRS_30.jpg¬false¬300",
+			"i¬238¬508¬https://s22.postimg.cc/bf0lu197l/ORCHID_-_FLYING_DUCK.jpg¬false¬400",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"i¬506¬343¬https://s22.postimg.cc/7hdc4oju9/VERBASCUM.jpg¬false¬200",
+			"t¬142¬49¬<font size=\"5\">An explanation of ANGIOSPERMS or flowering plant varieties.</font>¬201",
+			"e0¬300¬9¬4JDgBdk1zGw",
+			"e0¬474¬9¬5E1gtU2K3xQ",
+			"e0¬647¬9¬KARt3QtDEsM",
+			"e0¬443¬1311¬RJAXWy2nZxQ",
+			"e0¬623¬1311¬qUHb13lcGCo",
+			"a¬737¬959¬http://www.davidlnelson.md/Cazadero/FourGroupsPlants.htm¬Plant Groups",
+			"p¬18¬348¬https://gardenerdy.com/different-types-flowers",
+			"i¬639¬1129¬https://s22.postimg.cc/kzk8gj8pt/ALPINE_-_LEWISIA.jpg¬false¬150",
+			"i¬30¬1070¬https://s15.postimg.cc/pv38ia89n/FLWRS_93.jpg¬false¬300",
+			"e0¬261¬1311¬axH9KF3kJTk",
+			"i¬18¬1392¬https://s15.postimg.cc/gm128ek0r/AQUILEGIA_1.jpg¬false¬180",
+			"p¬20¬698¬https://gardenerdy.com/different-kinds-types-of-flowers",
+			"t¬101¬35¬<font color=\"#fc5b7d\" size=\"5\">&nbsp;FLOWER VARIETIES&nbsp;</font>¬234",
+			"m1¬26¬294¬flowers-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

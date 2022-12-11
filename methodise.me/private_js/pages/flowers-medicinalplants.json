@@ -1,0 +1,73 @@
+{
+	"id": "flowers-medicinalplants",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 334,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"flowers-intropage": {
+			"id": "flowers-intropage",
+			"state": "good"
+		},
+		"cannabis-bad-mkay": {
+			"id": "cannabis-bad-mkay",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000786752",
+	"content": {
+		"date": 1531766637509,
+		"title": "FLOWERS - MEDICINAL PLANTS",
+		"description": "Learning is always of great benefit when it truly benefits our health. Discover some of the world's most popular flowering plants that have been designed to include medicinal properties.",
+		"keywords": " health benefits, health properties, medicinal flowering plants, edible flowers, health, medicinal plants",
+		"cover": "https://igennus.com/wp-content/uploads/2014/12/Primroses.jpg",
+		"bg": "rgba(247,107,96,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(238,184,104,1)",
+		"text": "rgba(56,242,240,1)",
+		"link": "rgba(67,226,231,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0,48.616",
+		"logo": "324",
+		"font": "Griffy",
+		"size": "1680x833",
+		"board": [
+			"|v¬175¬1482¬239¬eeb868",
+			"|v¬172¬1153¬435¬eeb868",
+			"|v¬177¬822¬427¬eeb868",
+			"t¬35¬30¬<font size=\"7\">&nbsp;FLOWERS</font>¬244",
+			"t¬146¬22¬<font size=\"5\">Learning is always of great benefit when it truly benefits our health.&nbsp;</font><div><font size=\"5\"><br></font></div><div><font size=\"5\">Discover some of the world's most popular flowering plants that have been designed to include medicinal properties.</font></div>¬259",
+			"p¬465¬22¬https://www.proflowers.com/blog/medicinal-flowers-and-uses",
+			"p¬554¬349¬https://themysteriousworld.com/top-15-most-powerful-medicinal-plants/",
+			"a¬727¬64¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"a¬700¬67¬https://altnature.com/gallery/index.html¬70+ Medicinal Plant Uses",
+			"a¬626¬1390¬http://www.countryfile.com/article/go-outdoors-how-outdoor-skills-foraging/6-unusual-medicinal-plants-found-across-britain¬Medicinal Plants In The UK",
+			"e0¬29¬350¬RByKtrPLNgM",
+			"e0¬219¬349¬Swdz5QHCkZ0",
+			"a¬190¬404¬https://www.organicfacts.net/saffron.html¬Health Benefits Of Saffron",
+			"e0¬29¬1340¬MLWSa5RkF8A",
+			"e0¬218¬679¬pXyyYcI7w1Y",
+			"e0¬409¬680¬FpO5e_RIy1M",
+			"e0¬600¬679¬LwS-CrQG7SQ",
+			"e0¬29¬1010¬sCWhSAzzX8E",
+			"e0¬219¬1010¬pj9kYlwlSE8",
+			"e0¬411¬1010¬uU2be8YJuXk",
+			"e0¬600¬1009¬vNHvFHzWMU8",
+			"e0¬409¬1340¬ORzSVIXGvN4",
+			"e0¬28¬680¬N0Y5jD6PcdY",
+			"e0¬219¬1339¬PDiEmw8yfA0",
+			"a¬659¬1381¬http://drtomobrien.ie/health-benefits-of-hawthorn-blossom-herbal-medicine/¬Benefits Of Hawthorn Blossom",
+			"a¬693¬1419¬https://www.herbs-for-health.com/lotus-tea-benefits/¬Lotus Tea Benefits",
+			"a¬730¬1392¬https://www.simplysupplements.co.uk/healthylife/general-health/flowers-health-benefits¬Health Benefits Of Flowers",
+			"i¬387¬400¬https://s22.postimg.cc/px3jym0pt/Persian-_Saffron1.jpg¬false¬200",
+			"a¬591¬1384¬https://articles.mercola.com/sites/articles/archive/2012/04/18/42-edible-flowers.aspx¬42 Edible Flowers For Health",
+			"t¬106¬30¬<font color=\"#fc5b7d\" size=\"5\">&nbsp;MEDICINAL PLANTS&nbsp;</font>¬244",
+			"m1¬25¬299¬flowers-intropage",
+			"m0¬695¬467¬cannabis-bad-mkay"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

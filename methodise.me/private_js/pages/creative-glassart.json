@@ -1,0 +1,56 @@
+{
+	"id": "creative-glassart",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 109,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532425466342,
+		"title": "CREATIVE HOBBIES - GLASS ART",
+		"description": "You can create so many decorative things with glass, for both the inside of the house and for the garden.",
+		"keywords": "creative hobbies, glass art, sea glass, glass mosaics, glass decorations, glass garden ornaments",
+		"cover": "https://i.pinimg.com/236x/d0/39/ce/d039ce1987ff663fbc48c6948bec1bd6--crushed-glass-shell-art.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x783",
+		"board": [
+			"|v¬173¬1363¬425¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬137.5¬190.5¬<font size=\"5\">&nbsp;Glass Art&nbsp;</font>¬108",
+			"t¬186.5¬82.5¬<font size=\"4\">You can create so many decorative things with glass, for both the inside of the house and for the garden. Make beautiful personalised jewellery or amazing sea glass mosaic stepping stones ...</font>¬325",
+			"i¬54¬865¬https://i.pinimg.com/236x/d0/39/ce/d039ce1987ff663fbc48c6948bec1bd6--crushed-glass-shell-art.jpg¬false¬300",
+			"e0¬331¬95¬Lsh9zHG26YI",
+			"e0¬512¬96¬mlesqjrzDxY",
+			"p¬21¬499¬http://edhoy.com/techniques/",
+			"e0¬248¬497¬bk3NsLvbGsM",
+			"e0¬400¬1220¬av4I3EqxPto",
+			"e0¬579¬872¬j1fbobihwZg",
+			"e0¬399¬869¬szzQEKzzdJQ",
+			"a¬449¬542¬https://www.howcast.com/guides/613-glassblowing-for-beginners/¬Glass Blowing For Beginners!",
+			"e0¬20¬1221¬cXgHMmhcTfE",
+			"e0¬210¬1220¬qgv0g7PSaWk",
+			"e0¬590¬1220¬4-TkYpsDyDM",
+			"i¬508¬421¬https://3.imimg.com/data3/IG/UR/MY-15043778/window-glass-art-work-500x500.jpg¬false¬420",
+			"m1¬51.5¬450.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

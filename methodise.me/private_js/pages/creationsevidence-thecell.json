@@ -1,0 +1,59 @@
+{
+	"id": "creationsevidence-thecell",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 123,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530304089540,
+		"title": "CREATION'S EVIDENCE - The Cell",
+		"description": "Our cells have often been described as walled cities or factories with intricate mechanisms performing complicated tasks by the second, all in unison.",
+		"keywords": "cell nucleus, cell wall, human cells, creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "https://www.astrobio.net/wp-content/uploads/2014/12/acqeegKcM.jpeg",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬102.5¬525.5¬https://www.vallartadaily.com/wp-content/uploads/2016/10/cells.jpg¬false¬1000",
+			"|v¬387¬1402.5¬221¬8bd7d9",
+			"|h¬660¬796.5¬372¬8bd7d9",
+			"|v¬385¬643.5¬224¬8bd7d9",
+			"|h¬72¬849.5¬370¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬191.5¬116.5¬<font size=\"4\">Our cells have often been described as walled cities or factories with intricate mechanisms performing complicated tasks by the second, all in unison.</font>¬304",
+			"t¬141.5¬223.5¬<font style=\"background-color: rgb(215, 143, 147);\" size=\"5\">&nbsp;The Cell&nbsp;</font>¬91",
+			"i¬332.5¬69.5¬http://www.zoofirma.ru/images/knigi/0977/67.jpg¬true¬400",
+			"e0¬10¬550.5¬Dn3eNoxQdL0",
+			"e0¬11¬880.5¬aUtPUuNWCuA",
+			"e0¬11¬1211.5¬zwA96STHLW8",
+			"e0¬242¬500.5¬URUJD5NEXC8",
+			"e0¬419¬500.5¬ufCiGz75DAk",
+			"e0¬600¬500.5¬rdF3mnyS1p0",
+			"e0¬599¬830.5¬G3Y2Ig3YTL0",
+			"e0¬598¬1159.5¬xMn319zkZ2s",
+			"e0¬238¬1258.5¬LKN5sq5dtW4",
+			"e0¬418¬1259.5¬g159zCnvpBs",
+			"a¬183¬951.5¬http://www.finetuneduniverse.com/finetunedcelluniverse.html¬Fine Tuned Cell Universe",
+			"m1¬49¬495.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

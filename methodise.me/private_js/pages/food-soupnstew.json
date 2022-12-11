@@ -1,0 +1,61 @@
+{
+	"id": "food-soupnstew",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 184,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"food-intropage": {
+			"id": "food-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1535226215091,
+		"title": "FOOD - SOUP/STEW",
+		"description": "Home-made Soup and Stew made from scratch with REAL ingredients!",
+		"keywords": "soup, stew, cooking, recipes, food, foodies, ingredient, ingredients, home-made, healthy eating, nutritional, nutrition, fruit, vegetables, seeds, nuts, legumes, probiotics, meat, fish, seafood, meal, breakfast, lunch, dinner, snack, cake, biscuit, desert, casserole, pie, soup, stew, salad",
+		"cover": "https://s8.postimg.cc/kemdbt2f9/TITLE_N_PAGE_IMAGE_-_SOUP_STEW.png",
+		"bg": "rgba(236,169,26,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(48,242,224,1)",
+		"text": "rgba(244,170,64,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "164,0,0.7,49.307",
+		"logo": "133",
+		"font": "Mystery+Quest",
+		"size": "1580x773",
+		"board": [
+			"|h¬603.5¬880¬370¬ed1017",
+			"|h¬401.5¬879¬368¬ed1017",
+			"t¬28¬72¬<font size=\"7\"><font color=\"#f84a2b\" style=\"\">&nbsp;'</font><font color=\"#ed7f17\" style=\"\">Foodies' Unite!&nbsp;</font></font>¬320",
+			"t¬111.5¬47¬<font size=\"5\">&nbsp;Everyone likes food, right?&nbsp; Well,&nbsp; &nbsp;let's get stuck in then! It's time to get&nbsp; &nbsp;back to basics ... real ingredients&nbsp; &nbsp;and home made goodies!</font>¬382",
+			":D¬84.5¬414¬🍎",
+			":D¬198.5¬392¬🍰",
+			":D¬229.5¬18¬🥑",
+			":D¬81.5¬25¬🍓",
+			":D¬228.5¬416¬🥞",
+			"t¬150.5¬470¬<font size=\"5\">&nbsp;</font><font size=\"6\">Soup and Stew</font>¬211",
+			"i¬346.5¬36¬https://s8.postimg.cc/kemdbt2f9/TITLE_N_PAGE_IMAGE_-_SOUP_STEW.png¬false¬500",
+			"a¬46.5¬534¬https://www.allrecipes.com/recipes/94/soups-stews-and-chili/¬AllRecipes.com - Soup And Stew",
+			"a¬78.5¬516¬https://www.southernliving.com/food/whats-for-supper/soups-stews-recipes¬SouthernLiving.com - Soup And Stew",
+			"p¬50.5¬840¬https://www.delish.com/cooking/g1829/winter-soup/",
+			"a¬246.5¬535¬https://www.realsimple.com/food-recipes/recipe-collections-favorites/seasonal/speedy-savory-soups-and-stews¬RealSimple.com - Soup And Stew",
+			"e0¬339.5¬579¬tfvMDzr2Q4g",
+			"e0¬540.5¬580¬Crm2znBANNI",
+			"e0¬339.5¬910¬wrTKGoFxkM8",
+			"e0¬541.5¬911¬uV3cF--MGwQ",
+			"e0¬339.5¬1240¬_4NUn-YUKnw",
+			"e0¬541.5¬1240¬nZ8RGWo0wwQ",
+			"p¬53.5¬1180¬https://www.food24.com/recipes-and-menus/stew-recipes",
+			"m1¬19.5¬417¬food-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

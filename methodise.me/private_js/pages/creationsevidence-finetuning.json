@@ -1,0 +1,57 @@
+{
+	"id": "creationsevidence-finetuning",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 201,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530199080920,
+		"title": "CREATION'S EVIDENCE - Fine Tuning",
+		"description": "Our universe is so finely tuned and just perfect to sustain life, providing undeniable evidence of intelligent design by our loving Creator.",
+		"keywords": "finely tuned universe, creator, creation, intelligent design, mathematical evidence, proof of creation",
+		"cover": "https://ubcgcu.files.wordpress.com/2014/08/screen-shot-2014-08-21-at-4-56-14-pm.png",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬20¬19¬https://s22.postimg.cc/bix6ow529/Screen_Shot_2018-06-27_at_08.37.37.png¬false¬1350",
+			"|h¬74.5¬860.5¬412¬8bd7d9",
+			"|h¬634.5¬751.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬190.5¬130.5¬<font size=\"4\">Our universe is so finely tuned and just perfect to sustain life, providing undeniable evidence of intelligent design by our loving Creator.</font>¬274",
+			"t¬139.5¬116.5¬<font style=\"background-color: rgb(215, 143, 147);\" size=\"5\">&nbsp;Fine Tuning Of The Universe&nbsp;</font>¬306",
+			"e0¬563.5¬467.5¬BPNMPD22fD4",
+			"e0¬13.5¬918.5¬aT-Rdplb9A4",
+			"e0¬13¬580.5¬z4E_bT4ecgk",
+			"p¬254¬1261.5¬https://www.whyarewehere.tv/our-universe/fine-tuning/",
+			"p¬506¬13.5¬http://akosbalogh.com/2015/03/05/how-to-lose-faith-in-atheism-with-10-quintillion-coin-tosses/",
+			"e0¬332¬13.5¬NNeVBBmYxYk",
+			"e0¬14.5¬1257.5¬odgaN85Vve4",
+			"e0¬562.5¬790.5¬I37dj9cbgUE",
+			"a¬197.5¬1411.5¬https://www.allaboutscience.org/cosmic-fine-tuning.htm¬Cosmic Fine Tuning",
+			"a¬477.5¬1418.5¬http://www.newworldencyclopedia.org/entry/Physical_constant¬Physical Constants",
+			"e0¬534.5¬1255.5¬cymBsa6u3BU",
+			"t¬708.5¬1256.5¬<font size=\"4\">Fine tuning not only occurs universally, but also on a molecular level.</font>¬299",
+			"m1¬52¬502.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

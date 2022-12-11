@@ -1,0 +1,159 @@
+{
+	"id": "creativehobbies-intropage",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 389,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"homepage": {
+			"id": "homepage",
+			"state": "good"
+		},
+		"creative-calligraphy": {
+			"id": "creative-calligraphy",
+			"state": "good"
+		},
+		"creative-dancing": {
+			"id": "creative-dancing",
+			"state": "good"
+		},
+		"creative-diyaccessories": {
+			"id": "creative-diyaccessories",
+			"state": "good"
+		},
+		"creative-drawing": {
+			"id": "creative-drawing",
+			"state": "good"
+		},
+		"creative-embroidery": {
+			"id": "creative-embroidery",
+			"state": "good"
+		},
+		"creative-enamelling": {
+			"id": "creative-enamelling",
+			"state": "good"
+		},
+		"creative-flowercrafts": {
+			"id": "creative-flowercrafts",
+			"state": "good"
+		},
+		"creative-glassart": {
+			"id": "creative-glassart",
+			"state": "good"
+		},
+		"creative-hennaart": {
+			"id": "creative-hennaart",
+			"state": "good"
+		},
+		"creative-jewelleryart": {
+			"id": "creative-jewelleryart",
+			"state": "good"
+		},
+		"creative-mixedmediacrafts": {
+			"id": "creative-mixedmediacrafts",
+			"state": "good"
+		},
+		"creative-mosaics": {
+			"id": "creative-mosaics",
+			"state": "good"
+		},
+		"creative-pottery": {
+			"id": "creative-pottery",
+			"state": "good"
+		},
+		"creative-decoupage": {
+			"id": "creative-decoupage",
+			"state": "good"
+		},
+		"creative-painting": {
+			"id": "creative-painting",
+			"state": "good"
+		},
+		"creative-quilling": {
+			"id": "creative-quilling",
+			"state": "good"
+		},
+		"creative-recycling": {
+			"id": "creative-recycling",
+			"state": "good"
+		},
+		"creative-sewing": {
+			"id": "creative-sewing",
+			"state": "good"
+		},
+		"creative-shellart": {
+			"id": "creative-shellart",
+			"state": "good"
+		},
+		"creative-vintageshabbychic": {
+			"id": "creative-vintageshabbychic",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532601880376,
+		"title": "CREATIVE HOBBIES",
+		"description": "What better way to spend your free time than to get creative and even learn new skills.",
+		"keywords": "creative hobbies, cloth flowers, dance, decoupage, DIY accessories, drawing, embroidery, enamelling, glass art, jewellery, mosaics, painting, paper flowers, pottery, sewing, silk flowers,",
+		"cover": "http://www.pngmart.com/files/4/Colours-PNG-Free-Download.png",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬244¬331.5¬http://www.pngmart.com/files/4/Colours-PNG-Free-Download.png¬false¬540",
+			"|v¬162.5¬1392¬407¬e2b705",
+			"|v¬166.5¬682¬41¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬138.5¬68.5¬<font size=\"4\">What better way to spend your free time than to get creative and even learn new skills. The variety of hobbies available are simply endless, but here are a few popular ones to examine ...</font>¬351",
+			"t¬249.5¬69.5¬<font size=\"5\">&nbsp;Explore The Categories :</font><div><br></div><div><font size=\"4\">&nbsp;Calligraphy Art</font></div><div><font size=\"4\">&nbsp;Dancing</font></div><div><font size=\"4\">&nbsp;Decoupage Crafts</font></div><div><font size=\"4\">&nbsp;DIY Accessories Art</font></div><div><font size=\"4\">&nbsp;Drawing</font></div><div><font size=\"4\">&nbsp;Embroidery Crafts</font></div><div><font size=\"4\">&nbsp;Enamelling</font></div><div><font size=\"4\">&nbsp;Flower Art And Crafts</font></div><div><font size=\"4\">&nbsp;Glass Art</font></div><div><font size=\"4\">&nbsp;Henna Crafts</font></div><div><font size=\"4\">&nbsp;Jewellery Art And Crafts</font></div><div><font size=\"4\">&nbsp;Mixed Media Crafts</font></div><div><font size=\"4\">&nbsp;Mosaics</font></div><div><font size=\"4\">&nbsp;Painting</font></div><div><font size=\"4\">&nbsp;Pottery Crafts</font></div><div><font size=\"4\">&nbsp;Quilling Paper Art</font></div><div><font size=\"4\">&nbsp;Recycling Old For New</font></div><div><font size=\"4\">&nbsp;Sewing Crafts</font></div><div><font size=\"4\">&nbsp;Shell Art</font></div><div><font size=\"4\">&nbsp;Vintage Shabby Chic Decor</font></div>¬254",
+			"e0¬199¬538.5¬2QwBe0uivFA",
+			"e0¬20¬537.5¬08ccwRakWB8",
+			"e0¬559¬1249.5¬UCjbHtjVStk",
+			"a¬61¬994.5¬https://www.countryliving.com/diy-crafts/¬100+ Simple Craft Ideas",
+			"p¬183¬928.5¬https://www.craftideas.com/",
+			"i¬135¬923.5¬https://s22.postimg.cc/b860bvuc1/Screen_Shot_2018-07-05_at_08.33.21.png¬false¬310",
+			"a¬670¬1020.5¬https://www.allfreekidscrafts.com/Miscellaneous-Crafts-for-Kids/Top-Craft-Ideas-for-Kids-of-2013¬100 Kids' Crafts",
+			":D¬36¬38.5¬🏵",
+			"m1¬50.5¬446.5¬homepage",
+			"m0¬283¬194¬creative-calligraphy",
+			"m0¬309¬143¬creative-dancing",
+			"m0¬356¬235¬creative-diyaccessories",
+			"m0¬377¬147¬creative-drawing",
+			"m0¬403¬217¬creative-embroidery",
+			"m0¬424.5¬165¬creative-enamelling",
+			"m0¬446¬245¬creative-flowercrafts",
+			"m0¬469¬147¬creative-glassart",
+			"m0¬492.5¬177¬creative-hennaart",
+			"m0¬515¬261¬creative-jewelleryart",
+			"m0¬538¬225¬creative-mixedmediacrafts",
+			"m0¬560¬136¬creative-mosaics",
+			"m0¬608.5¬183¬creative-pottery",
+			"a¬93.5¬998¬https://www.favecrafts.com/Gifts/22-Easy-Craft-Projects-For-Adults¬Easy Crafts For Adults",
+			"a¬403.5¬1025¬https://feltmagnet.com/crafts/crafts-for-adults¬Creative Crafts",
+			"p¬449.5¬928¬https://www.diyinspired.com/24-cheap-recycled-crafts-for-adults-to-make/",
+			"m0¬329.5¬209¬creative-decoupage",
+			"m0¬586.5¬144¬creative-painting",
+			"e0¬199.5¬1249¬s4lTmRQ7vSc",
+			"e0¬19.5¬1249¬8ysAy51SLes",
+			"e0¬380.5¬1250¬pkP5-ytJLsU",
+			"m0¬629.5¬219¬creative-quilling¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2",
+			"m0¬652.5¬254¬creative-recycling¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2",
+			"m0¬678¬179¬creative-sewing¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2",
+			"m0¬700¬144¬creative-shellart¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2",
+			"m0¬723.5¬285¬creative-vintageshabbychic¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

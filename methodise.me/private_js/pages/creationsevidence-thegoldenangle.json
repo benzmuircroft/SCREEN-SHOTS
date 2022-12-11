@@ -1,0 +1,60 @@
+{
+	"id": "creationsevidence-thegoldenangle",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 155,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530309167251,
+		"title": "CREATION'S EVIDENCE - The Golden Angle",
+		"description": "Undeniable evidence of intelligent design is clearly seen throughout the universe as unmistakable proof of our Creator, the greatest physicist and mathematician.",
+		"keywords": "the golden angle 137.5, creator, creation, intelligent design, mathematical evidence, proof of creation, the greatest physicist, the greatest mathematician",
+		"cover": "http://gofiguremath.org/wp-content/uploads/2014/10/Golden-Angle-color.png",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": "rgba(117,252,226,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"i¬-8¬614.5¬https://i1.wp.com/www.learning-mind.com/wp-content/uploads/2016/05/What-is-Fibonacci-Sequence.jpg¬false¬950",
+			"|l¬153.5¬804.5¬50¬8bd7d9",
+			"|l¬341.5¬727.5¬95¬8bd7d9",
+			"|v¬553.5¬173.5¬47¬8bd7d9",
+			"|h¬471.5¬320.5¬46¬8bd7d9",
+			"|h¬649.5¬315.5¬53¬8bd7d9",
+			"|v¬555.5¬503.5¬38¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬200.5¬137.5¬<font size=\"4\">Undeniable evidence of intelligent design is clearly seen throughout the universe as unmistakable proof of our Creator, the greatest physicist and mathematician.</font>¬261",
+			"t¬139.5¬104.5¬<font size=\"6\" style=\"background-color: rgb(215, 143, 147);\">&nbsp;The Golden Angle 137.5&nbsp;</font>¬328",
+			"e0¬588.5¬360.5¬ZounsLXxnDw",
+			"e0¬589.5¬30.5¬MBJPwatpbR0",
+			"e0¬409.5¬30.5¬HY2cr7UedMA",
+			"e0¬409.5¬360.5¬eoPsEaUVo_Q",
+			"e0¬192.5¬466.5¬AvvB8JkxZuY",
+			"i¬11¬1378¬https://s22.postimg.cc/wdcc2ul35/IMAGE_-_137.5.png¬false¬169",
+			"e0¬14.5¬538.5¬-WF6V9RQFz8",
+			"a¬359.5¬75.5¬http://gofiguremath.org/natures-favorite-math/the-golden-ratio/the-golden-angle/¬The Golden Angle Explained",
+			"a¬362.5¬414.5¬http://mathworld.wolfram.com/GoldenAngle.html¬The Golden Angle 137.5",
+			"a¬695.5¬685.5¬https://www.nature.com/articles/srep15358¬The Golden angle in Phyllotaxis",
+			"a¬163.5¬1415.5¬https://www.johndcook.com/blog/2017/05/01/golden-angle/¬137.5 Degrees",
+			"m1¬50¬492.5¬creationsevidence-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

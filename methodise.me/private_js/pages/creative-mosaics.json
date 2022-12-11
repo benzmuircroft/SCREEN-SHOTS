@@ -1,0 +1,58 @@
+{
+	"id": "creative-mosaics",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 140,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532521824189,
+		"title": "CREATIVE HOBBIES - MOSAICS",
+		"description": "Mosaic art can be used for a vast variety of houseware and garden items.  Transform the 'ordinary' into extraordinary!",
+		"keywords": "creative hobbies, mosaic design, mosaic art ideas, ceramic mosaics, glass mosaics, garden mosaics",
+		"cover": "https://www.kasiamosaicsclasses.com/wp-content/uploads/2015/11/Kasia-Mosaics-Stained-Glass-Mosaic-Flower-Workshop-Montana-1.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|v¬169¬1377¬50¬e2b705",
+			"|h¬101¬885¬355¬e2b705",
+			"|v¬464¬214¬50¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬140.5¬197.5¬<font size=\"5\">&nbsp;Mosaics&nbsp;</font>¬95",
+			"t¬188.5¬68.5¬<font size=\"4\">Mosaic art can be used for a vast variety of houseware and garden items.&nbsp; Transform the 'ordinary' into something of extraordinary beauty and originality.</font>¬341",
+			"i¬221¬750¬https://www.kasiamosaicsclasses.com/wp-content/uploads/2015/11/Kasia-Mosaics-Stained-Glass-Mosaic-Flower-Workshop-Montana-1.jpg¬true¬450",
+			"e0¬421¬1230¬ZXn4WiEY9Yk",
+			"e0¬501¬69¬6eQEdWZnW0U",
+			"e0¬330¬69¬-TIZzNLZtwc",
+			"e0¬40¬590¬3alQa_rd8p8",
+			"e0¬40¬910¬tlHZZ6U5BQM",
+			"e0¬39¬1230¬QvNaaSkjOaA",
+			"e0¬210¬1230¬ttRTpjRykzA",
+			"e0¬579¬405¬2MSKRMK7yNg",
+			"e0¬591¬1230¬xd56NuL1f3Y",
+			"a¬532¬473¬https://www.totalmosaic.com/mosaic-basics-a/132.htm¬How To Grout Mosaics",
+			"p¬315¬405¬https://www.happyfamilyart.com/art-lessons/mixed-media-art-lessons/how-to-make-outdoor-mosaic-art/",
+			"a¬701¬916¬https://www.craftionary.net/40-impressive-diy-mosaic-projects/¬40 Mosiac Ideas",
+			"m1¬50.5¬469.5¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

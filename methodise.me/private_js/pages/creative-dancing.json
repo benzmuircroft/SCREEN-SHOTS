@@ -1,0 +1,58 @@
+{
+	"id": "creative-dancing",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 94,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532363539957,
+		"title": "CREATIVE HOBBIES - DANCING",
+		"description": "Dancing - An excellent way to chill out, de-stress, exercise and become more fit and healthy.",
+		"keywords": "creative hobbies, dance, dancing, dance tutorials, chill out, de-stress, get fit and healthy, body popping, hip-hop, street dancing, breakdancing, simple dance moves, robotic, botting, ",
+		"cover": "https://png.pngtree.com/element_origin_min_pic/16/07/26/1857973b47f1a52.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬93.5¬819¬52¬e2b705",
+			"|h¬271.5¬819¬381¬e2b705",
+			"e0¬390.5¬1191¬zPdQ1gN7Ngo",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬138.5¬180.5¬<font size=\"5\">&nbsp;Dancing&nbsp;</font>¬99",
+			"t¬187.5¬78.5¬<font size=\"4\">What an excellent way to not only chill out and de-stress, but also great exercise to help you get and stay fit and healthy.</font>¬331",
+			"i¬296.5¬93.5¬https://png.pngtree.com/element_origin_min_pic/16/07/26/1857973b47f1a52.jpg¬false¬300",
+			"e0¬30¬1189¬OF9FY2dkHWQ",
+			"e0¬30¬529¬RECaepj8LkU",
+			"e0¬30.5¬859¬v-fsbZ5VgTU",
+			"e0¬210.5¬530¬ujREEgxEP7g",
+			"e0¬209.5¬859¬NM-2XSQc2q0",
+			"e0¬210.5¬1189¬sofG3xQkLCo",
+			"e0¬390.5¬529¬gtaGmyqk9vY",
+			"e0¬569.5¬530¬ApIVO-1kVzY",
+			"e0¬390.5¬859¬IA3DxxuqGsY",
+			"a¬599.5¬1265¬https://www.youtube.com/user/DanceTutorialsLIVE?app=desktop¬Dance Tutorials Live",
+			"a¬642.5¬1279¬https://www.brambilabong.com/pages/free-dance-tutorials¬Dance Tutorials",
+			"e0¬569.5¬860¬qleLIyVGbgU",
+			"m1¬51.5¬453¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

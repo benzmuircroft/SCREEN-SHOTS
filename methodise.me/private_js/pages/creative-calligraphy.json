@@ -1,0 +1,61 @@
+{
+	"id": "creative-calligraphy",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 142,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creativehobbies-intropage": {
+			"id": "creativehobbies-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1532359580863,
+		"title": "CREATIVE HOBBIES - CALLIGRAPHY",
+		"description": "Calligraphy - artistic swirls of pen on paper that can turn reading into an absolute delight.",
+		"keywords": "creative hobbies, calligraphy, calligraphy art, artistic writing, character writing, stylish writing, writing style, creative writing, stylish writing, creative flourish techniques, brush calligraphy, brush lettering, copperplate calligraphy",
+		"cover": "http://newstrack.com/wp-content/uploads/sites/2/2018/04/calligraphy.jpg",
+		"bg": "rgba(52,185,200,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(47,242,228,0.79)",
+		"text": "rgba(195,117,28,1)",
+		"link": "rgba(255,113,128,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "334,0,0.7,36.239",
+		"logo": "167",
+		"font": "Berkshire+Swash",
+		"size": "1580x813",
+		"board": [
+			"|h¬682¬354¬714¬e2b705",
+			"|h¬91¬838¬354¬e2b705",
+			"|v¬412¬212¬213¬e2b705",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#e2b705\">Creative Hobbies</font>¬368",
+			"t¬138.5¬180.5¬<font size=\"5\">&nbsp;Calligraphy&nbsp;</font>¬127",
+			"t¬186.5¬70.5¬<font size=\"4\">The beauty of artistic swirls of pen on paper that can turn reading into an absolute delight.</font>¬347",
+			"i¬201.5¬814¬https://image.freepik.com/free-vector/multicolor-thank-you-card_23-2147645139.jpg¬false¬400",
+			"e0¬29.5¬539¬p9wCB95TbW0",
+			"e0¬259.5¬70¬nj962-cU2PQ",
+			"e0¬615.5¬70¬boHNElr70e8",
+			"e0¬29.5¬860¬zg7QLW0KrQw",
+			"e0¬28.5¬1180¬o26qZV7Iyy0",
+			"e0¬227.5¬489¬l_NeCAc3hgk",
+			"e0¬620.5¬399¬1C-4ThvSUiI",
+			"e0¬619.5¬727¬St4gio8sPV0",
+			"e0¬439.5¬70¬Aq4wMKb8uqI",
+			"e0¬620¬1056¬2zQG7BOlz9k",
+			"e0¬229¬1240¬hLAXz0HYy7k",
+			"e0¬420¬1240¬oeaUsYuy-Ew",
+			"e0¬420¬490¬ut67oDvgL_o",
+			"a¬585¬1309¬https://www.youtube.com/watch?v=t_UranHGIXU¬Calligraphy Art Supplies",
+			"a¬583¬500¬https://thepostmansknock.com/beginners-guide-modern-calligraphy/¬Beginners Guide To Modern Calligraphy",
+			"m1¬50.5¬453¬creativehobbies-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

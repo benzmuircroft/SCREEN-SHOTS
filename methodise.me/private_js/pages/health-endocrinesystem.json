@@ -1,0 +1,61 @@
+{
+	"id": "health-endocrinesystem",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 179,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"undefined": {
+			"id": "undefined",
+			"state": "good"
+		},
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000006170376",
+	"content": {
+		"date": 1529085224624,
+		"title": "HEALTH - ENDOCRINE SYSTEM",
+		"description": "The endocrine system is a collection of glands that produce hormones to regulate metabolism, growth and development, tissue function, sexual function, reproduction, sleep and mood.",
+		"keywords": "endocrine system, hormones, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://static.acne.org/ipb_uploads/monthly_2018_02/image-2@1-5.jpg.a69e2594077fb307530290dfe469afef.jpg",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(220,88,106,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬609¬221¬47¬41ffe1",
+			"|v¬170¬1441¬433¬41ffe1",
+			"i¬7¬528¬http://www.wheatberrycafe.com/wp-content/uploads/2016/01/endocrine.jpg¬false¬670",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬93¬70¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬178¬132¬<font size=\"6\">Endocrine System</font>¬195",
+			"e0¬468¬79¬HJI11Fj4jYs",
+			"a¬559¬401¬http://www.endocrinesurgeon.co.uk/index.php/what-are-the-functions-of-the-different-types-of-hormone¬Hormone Types/Function",
+			"a¬515¬394¬https://www.thoughtco.com/hormones-373559¬An Introduction To Hormones",
+			"t¬321¬38¬<font size=\"4\">The Endocrine System&nbsp;is a collection of&nbsp;glands&nbsp;that produce and secrete hormones (chemical substances produced in the body) that regulate the activity of cells or organs. These hormones regulate the body's growth, metabolism (the physical and chemical processes of the body), sexual development and function, sleep and mood.</font>¬391",
+			"e0¬38¬1297¬uIsx8LJgjxQ",
+			"e0¬404¬1298¬kk48W9zC4ek",
+			"e0¬648¬78¬PGUStkVPkhs",
+			"e0¬221¬1298¬hVBocs7PUPI",
+			"e0¬588¬1299¬TUCMbE7i76A",
+			"a¬658¬885¬https://vimeo.com/272510293¬Natural Remedies - Endocrine System",
+			"a¬697¬930¬https://www.slideshare.net/fertileheart/natural-fertility-boosting-foods¬Natural Fertility Food",
+			"p¬614¬446¬https://draxe.com/10-ways-balance-hormones-naturally/",
+			"a¬741¬917¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"m1¬14¬471¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"id": "health-circulatorysystem",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 230,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"health-intropage": {
+			"id": "health-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000118359",
+	"content": {
+		"date": 1529085083407,
+		"title": "HEALTH - CIRCULATORY SYSTEM",
+		"description": "AKA Cardiovascular System consists of the heart, blood vessels and blood. It transports nutrients, oxygen and hormones, removes metabolic waste and protects the body.",
+		"keywords": "circulatory system, heart, arteries, veins, circulation, health, natural cure, natural product, homeopathic, holistic, healing, heal, cure, remedy, well-being, vitamins, minerals, nutrients, herbs, spices",
+		"cover": "https://fyi.uwex.edu/shawanohort/files/2017/07/FruitVeg-heart.png",
+		"bg": "rgba(255,147,135,1)",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(40,233,220,1)",
+		"text": "rgba(220,88,106,1)",
+		"link": "rgba(50,238,218,1)",
+		"line": "rgba(255,255,255,1)",
+		"ui": "148,0,0.7,51.428",
+		"logo": "113",
+		"font": "Rochester",
+		"size": "1680x833",
+		"board": [
+			"|v¬192¬1504¬236¬35ffea",
+			"i¬40¬516¬https://www.mannaplus.co.za/wp-content/uploads/2015/01/Healthy-Blood1.jpg¬false¬350",
+			"i¬72¬939¬http://www.6aming.com/p/2018/03/circulatory-system-pictures-with-labels-google-search-science-with-regard-to-diagram-of-the-circulatory-system-with-labels.jpg¬true¬400",
+			"i¬18¬18¬https://www.rosannadavisonnutrition.com/wp-content/uploads/2013/07/fruit-and-veg-534x356.jpg¬false¬430",
+			"t¬97¬67¬<font size=\"7\">&nbsp;Health - naturally</font>¬326",
+			"t¬177¬103¬<font size=\"6\">The Circulatory System</font>¬256",
+			"a¬418¬598¬https://us.revitive.com/health-information/foods-to-improve-circulation/¬Superfoods Improve Circulation",
+			"a¬298¬617¬https://www.newportnaturalhealth.com/2012/04/circulation-the-unsung-hero-of-good-health/¬5 Natural Supplements",
+			"a¬335¬579¬http://www.onegreenplanet.org/natural-health/healthy-foods-that-improve-your-blood-flow/¬Healthy Food Improves Blood Flow",
+			"a¬25¬1033¬https://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0072434/¬How The Circulation System Works",
+			"p¬568¬994¬https://www.visiblebody.com/learn/circulatory/circulatory-pulmonary-systemic-circulation",
+			"e0¬659¬75¬_qmNCJxpsr0",
+			"i¬464¬443¬https://i.ytimg.com/vi/LdSuIm6dzZU/maxresdefault.jpg¬true¬480",
+			"t¬636¬1404¬<font size=\"5\">Arteries and Vein Health</font>¬211",
+			"t¬727¬1453¬<font size=\"5\">Heart Health</font>¬120",
+			"t¬325¬36¬<font size=\"4\">The Circulatory System (AKA Cardiovascular System)&nbsp;consists of the heart, blood vessels and blood, and has three main&nbsp;functions&nbsp;:</font><div><font size=\"4\"><br></font></div><div><font size=\"4\">(1) Transportation of nutrients, oxygen and hormones to cells throughout the body, plus removal of metabolic waste (carbon dioxide/nitrogenous)</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">(2) Protection against foreign microbes and toxins by means of white blood cells, antibodies and complement proteins. Clotting mechanisms also protect from blood loss caused by injuries</font></div><div><font size=\"4\"><br></font></div><div><font size=\"4\">(3) Temperature regulation, fluid pH and cell water content</font></div>¬391",
+			"a¬771¬1023¬https://www.mannaplus.co.za/the-importance-of-proper-blood-circulation/¬The Importance of Proper Blood Circulation",
+			"e0¬37¬1356¬TnOv1zCVQMs",
+			"e0¬230¬1356¬Q_A7YgVerlw",
+			"e0¬422¬1356¬mpauHfOULV0",
+			"a¬380¬608¬http://healthyeating4evry1.blogspot.com/¬Healthy Eating 4 Everyone",
+			"m1¬17¬464¬health-intropage¬4e23b21e21a02086dee14d51acb14484130e6d6963bbd08ce30e98db879c471061ae5f144572bb87d2263f4826e8a405f3376e45d29edfd2908c6ec74722a1b2"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}

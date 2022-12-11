@@ -1,0 +1,63 @@
+{
+	"id": "creationsevidence-dnatheblueprint",
+	"key": "iI2M$L!!wKq2d",
+	"quality": 240,
+	"hate": 0,
+	"links": {
+		"blocked": [],
+		"creationsevidence-intropage": {
+			"id": "creationsevidence-intropage",
+			"state": "good"
+		}
+	},
+	"stars": 0,
+	"hashed": "0.000000000000",
+	"content": {
+		"date": 1530813100253,
+		"title": "CREATION'S EVIDENCE - DNA:The Blueprint",
+		"description": "Your DNA contains every scrap of information about you and is contained in every cell throughout your body - undeniable evidence of intelligent design from our Creator.",
+		"keywords": "DNA, complexity of cell information, creator, creation, intelligent design, mathematical evidence, proof of a creator",
+		"cover": "https://s22.postimg.cc/mgbdg2sxt/Screen_Shot_2018-06-26_at_14.02.36.png",
+		"bg": "rgba(188,130,146,1)",
+		"url": "",
+		"repeat": "false",
+		"blur": "0",
+		"box": "rgba(242,187,171,0.79)",
+		"text": "rgba(69,244,236,1)",
+		"link": {
+			"blocked": []
+		},
+		"line": "rgba(255,255,255,1)",
+		"ui": "340,0.33862,0.59616,35.917",
+		"logo": "206",
+		"font": "Berkshire+Swash",
+		"size": "1580x773",
+		"board": [
+			"|h¬642¬745.5¬393¬8bd7d9",
+			"|h¬92¬822.5¬395¬8bd7d9",
+			"|v¬573¬258.5¬50¬8bd7d9",
+			"|v¬356¬1388.5¬50¬8bd7d9",
+			"t¬59¬60¬<font size=\"7\" color=\"#f84a2b\">&nbsp;</font><font size=\"7\" color=\"#53feee\">Creation's Evidence</font>¬417",
+			"t¬186.5¬125.5¬<font size=\"4\">DNA (deoxyribonucleic acid) a self-replicating material present in all living organisms as the main constituent of chromosomes. It is the carrier of genetic information within every cell.&nbsp; DNA&nbsp; determines the particular structure and functions of every cell and is responsible for characteristics being passed on from parents to their children.&nbsp;</font>¬284",
+			"t¬137.5¬118.5¬<font style=\"background-color: rgb(215, 143, 147);\" size=\"5\">&nbsp;DNA - The Blueprint of Life&nbsp;</font>¬304",
+			"i¬203¬483.5¬https://s22.postimg.cc/mgbdg2sxt/Screen_Shot_2018-06-26_at_14.02.36.png¬false¬700",
+			"e0¬437¬116.5¬o_-6JXLYS-k",
+			"e0¬580¬772.5¬TNKWgcFPHqw",
+			"e0¬580¬450.5¬dKubyIRiN84",
+			"e0¬30¬529.5¬TSv-Rq5C3K8",
+			"e0¬30¬870.5¬41_Ne5mS2ls",
+			"e0¬31¬1210.5¬8nQH0GqFn6k",
+			"e0¬211¬1241.5¬MkUgkDLp2iE",
+			"e0¬605¬115.5¬aeAL6xThfL8",
+			"e0¬392¬1242.5¬ONGdehkB8jU",
+			"e0¬579¬1093.5¬9bWjuwTiYXI",
+			"a¬220¬915.5¬http://www.sciencemadesimple.co.uk/curriculum-blogs/biology-blogs/what-is-dna¬DNA - Science Made Simple",
+			"a¬218¬601.5¬http://www.abc.net.au/science/slab/genome2001/dna.htm¬DNA For Dummies",
+			"a¬523¬726.5¬https://www.nature.com/scitable/topicpage/cells-can-replicate-their-dna-precisely-6524830¬DNA Cells Replicate Perfectly",
+			"i¬603.5¬1411.5¬https://static.scientificamerican.com/sciam/cache/file/A923FCBF-1303-410E-9330688471C6A59A.jpg¬false¬150",
+			"m1¬50¬489.5¬creationsevidence-intropage"
+		],
+		"mines": "GslaYOfqzNiyopbmnUIf8usEjK6aqSOX",
+		"donate": "47jTNhQ5mGDeCWLASzm1ETJ9LqdoiFJ9PjVFGr4uk29YRGA1peUxKuaWcrJwYCbkt6Xaq2aHU7CgU2oAfSLyR3K43CcRqz8"
+	}
+}
