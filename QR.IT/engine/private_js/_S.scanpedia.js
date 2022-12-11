@@ -21,13 +21,13 @@ var anyDB = require('../public_html/node_modules/any-db');
 //
 var scanipedia_sql = anyDB.createConnection('mysql://quickrep_user:53S){~Fl6NJW@quickreport.it/quickrep_scanipedia',function(e,r){console.log('SQL: '+e+' '+r);});
 //var SendGrid=require('../public_html/node_modules/sendgrid').SendGrid;
-//var sendgrid=new SendGrid('benzmuircroft','Summers;;::7');
+//var sendgrid=new SendGrid('ben','xxxxxx');
 var FTPClient = require('../public_html/node_modules/ftp');
 var ftpkey={
     host    : "scanpedia.com",
     user    : "quickrep",
     port    : 21,
-    password: "James;;;:::Bond007"
+    password: "XXXXXXX"
     }
 //var natural=require("../public_html/node_modules/synonym/node_modules/natural"),wordnet=new natural.WordNet();
 var WatchJS=require('../public_html/node_modules/watchjs'),
