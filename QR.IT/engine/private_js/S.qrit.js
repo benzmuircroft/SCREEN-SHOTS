@@ -11,10 +11,10 @@ var demo3_issues = anyDB.createConnection('mysql://quickrep_user:53S){~Fl6NJW@qu
 var hotel_issues = anyDB.createConnection('mysql://quickrep_user:53S){~Fl6NJW@quickreport.it/quickrep_issues',function(e,r){console.log('hotel.sqlerr: '+e);});
 var scanipedia_sql = anyDB.createConnection('mysql://quickrep_user:53S){~Fl6NJW@quickreport.it/quickrep_scanipedia',function(e,r){console.log(e);});
 var SendGrid=require('../public_html/node_modules/sendgrid').SendGrid;
-var sendgrid=new SendGrid('benzmuircroft','Summers;;::7');
+var sendgrid=new SendGrid('benz','xxxx');
 var nodemailer = require("../public_html/node_modules/nodemailer");
-var gmail=nodemailer.createTransport("SMTP",{service:'Gmail','auth':{'user':'quickreport.it@gmail.com','pass':'khmipreuziviixiz'}});
-var hotmail=nodemailer.createTransport("SMTP",{service:'Hotmail','auth':{'user':' quickreport.it@hotmail.com','pass':'Summers7'}});//33pnidjq43vx6opb
+var gmail=nodemailer.createTransport("SMTP",{service:'Gmail','auth':{'user':'quickreport.it@gmail.com','pass':'xxxxxx'}});
+var hotmail=nodemailer.createTransport("SMTP",{service:'Hotmail','auth':{'user':' quickreport.it@hotmail.com','pass':'xxxxx'}});//33pnidjq43vx6opb
 var FTPClient = require('../public_html/node_modules/ftp');
 var ftpkey={
     host    : "quickreport.it",
